@@ -1,0 +1,1001 @@
+Name,Description,URL
+act,Run your GitHub Actions locally 🚀,https://github.com/nektos/act
+gitea,Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD,https://github.com/go-gitea/gitea
+awesome-actions,A curated list of awesome actions to use on GitHub,https://github.com/sdras/awesome-actions
+goreleaser,Release engineering, simplified,https://github.com/goreleaser/goreleaser
+Actions-OpenWrt,A template for building OpenWrt with GitHub Actions | 使用 GitHub Actions 在线云编译 OpenWrt 固件,https://github.com/P3TERX/Actions-OpenWrt
+community,Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!,https://github.com/community/community
+OpenWrt-Rpi,Raspberry Pi & NanoPi R2S/R4S & G-Dock & x86 OpenWrt Compile Project. (Based on Github Action / Daily Update),https://github.com/SuLingGG/OpenWrt-Rpi
+danger-js,⚠️ Stop saying "you forgot to …" in code review,https://github.com/danger/danger-js
+ssh-action,GitHub Actions for executing remote ssh commands.,https://github.com/appleboy/ssh-action
+actions-runner-controller,Kubernetes controller for GitHub Actions self-hosted runners,https://github.com/actions/actions-runner-controller
+actions-gh-pages,GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.,https://github.com/peaceiris/actions-gh-pages
+ubicloud,Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.,https://github.com/ubicloud/ubicloud
+snk,🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif,https://github.com/Platane/snk
+build-push-action,GitHub Action to build and push Docker images with Buildx,https://github.com/docker/build-push-action
+action-gh-release,📦 :octocat: GitHub Action for creating GitHub Releases,https://github.com/softprops/action-gh-release
+digger,Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️  ,https://github.com/diggerhq/digger
+github-pages-deploy-action,🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.,https://github.com/JamesIves/github-pages-deploy-action
+FTP-Deploy-Action,Deploys a GitHub project to a FTP server using GitHub actions,https://github.com/SamKirkland/FTP-Deploy-Action
+cml,♾️ CML - Continuous Machine Learning | CI/CD for ML,https://github.com/iterative/cml
+python-web,Curso para aprender desarrollo frontend Web con Python puro desde cero. Elaborado durante las emisiones en directo desde Twitch de MoureDev.,https://github.com/mouredev/python-web
+action-tmate,Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.,https://github.com/mxschmitt/action-tmate
+blog-post-workflow,Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed,https://github.com/gautamkrishnar/blog-post-workflow
+ts-nextjs-tailwind-starter,🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features,https://github.com/theodorusclarence/ts-nextjs-tailwind-starter
+github-stats,Better GitHub statistics images for your profile, with stats from private repos too,https://github.com/jstrieb/github-stats
+actionlint,:octocat: Static checker for GitHub Actions workflow files,https://github.com/rhysd/actionlint
+setup-php,GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.,https://github.com/shivammathur/setup-php
+fastapi-realworld-example-app,Backend logic implementation for https://github.com/gothinkster/realworld with awesome FastAPI,https://github.com/nsidnev/fastapi-realworld-example-app
+DevOps,I created this repository to keep my learning, notes, and code in one place for various tools in DevOps. Now, it's helping thousands of learners, practitioners, and professionals every day in their DevOps journey.,https://github.com/Pradumnasaraf/DevOps
+terraform-aws-github-runner,Terraform module for scalable GitHub action runners on AWS,https://github.com/github-aws-runners/terraform-aws-github-runner
+cargo-make,Rust task runner and build tool.,https://github.com/sagiegurari/cargo-make
+paths-filter,Conditionally run actions based on files modified by PR, feature branch or pushed commits,https://github.com/dorny/paths-filter
+flutter-action,Flutter environment for use in GitHub Actions. It works on Linux, Windows, and macOS.,https://github.com/subosito/flutter-action
+git-auto-commit-action,Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.,https://github.com/stefanzweifel/git-auto-commit-action
+docker_image_pusher,使用Github Action将国外的Docker镜像转存到阿里云私有仓库，供国内服务器使用，免费易用,https://github.com/tech-shrimp/docker_image_pusher
+typescript-action,Create a TypeScript Action with tests, linting, workflow, publishing, and versioning,https://github.com/actions/typescript-action
+zizmor,A static analysis tool for GitHub Actions,https://github.com/woodruffw/zizmor
+changed-files,:octocat: Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.,https://github.com/tj-actions/changed-files
+cibuildwheel,🎡 Build Python wheels for all the platforms with minimal configuration. ,https://github.com/pypa/cibuildwheel
+Gmeek,Gmeek is a Blog All in Github,https://github.com/Meekdai/Gmeek
+18-comic-finder,禁漫天堂Github Actions下载器🧘,https://github.com/jiayaoO3O/18-comic-finder
+docker-github-actions-runner,This will run the new self-hosted github actions runners with docker-in-docker,https://github.com/myoung34/docker-github-actions-runner
+kotlin-android-template,Android + Kotlin + Github Actions + ktlint + Detekt + Gradle Kotlin DSL + buildSrc = ❤️,https://github.com/cortinico/kotlin-android-template
+JMComic-APK,防迷路 | 禁漫天堂APK | 禁漫APP安卓安装包 | jm天堂 | GitHub Actions ,https://github.com/hect0x7/JMComic-APK
+modern-cpp-template,A template for modern C++ projects using CMake, Clang-Format, CI, unit testing and more, with support for downstream inclusion.,https://github.com/filipdutescu/modern-cpp-template
+setup-gcloud,A GitHub Action for installing and configuring the gcloud CLI.,https://github.com/google-github-actions/setup-gcloud
+stepci,Automated API Testing and Quality Assurance,https://github.com/stepci/stepci
+covid19-dashboard,A site that displays up to date COVID-19 stats, powered by fastpages.,https://github.com/github/covid19-dashboard
+actions-hugo,GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.,https://github.com/peaceiris/actions-hugo
+image-actions,A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests.,https://github.com/calibreapp/image-actions
+lost-pixel,Open source alternative to Percy, Chromatic, Applitools.,https://github.com/lost-pixel/lost-pixel
+github-action,GitHub Action for running Cypress end-to-end & component tests,https://github.com/cypress-io/github-action
+wrangler-action,🧙‍♀️ easily deploy cloudflare workers applications using wrangler and github actions,https://github.com/cloudflare/wrangler-action
+create-release,An Action to create releases via the GitHub Release API,https://github.com/actions/create-release
+scp-action,GitHub Action that copy files and artifacts via SSH.,https://github.com/appleboy/scp-action
+ssh-agent,GitHub Action to setup `ssh-agent` with a private key,https://github.com/webfactory/ssh-agent
+AutoPR,Run AI-powered workflows over your codebase,https://github.com/irgolic/AutoPR
+github-certification-guide,Resources to help you get GitHub certified ✨,https://github.com/LadyKerr/github-certification-guide
+30-seconds-web,Website infrastructure for 30-seconds projects.,https://github.com/Chalarangelo/30-seconds-web
+lighthouse-ci-action,Audit URLs using Lighthouse and test performance with Lighthouse CI.,https://github.com/treosh/lighthouse-ci-action
+latex-action,:octocat: GitHub Action to compile LaTeX documents,https://github.com/xu-cheng/latex-action
+add-and-commit,:octocat: Automatically commit changes made in your workflow run directly to your repo,https://github.com/EndBug/add-and-commit
+python-project-template,DO NOT FORK, CLICK ON "Use this template" - A github template to start a Python Project - this uses github actions to generate your project based on the template.,https://github.com/rochacbruno/python-project-template
+rdm-builder,Redis Desktop Manager Builder,https://github.com/FuckDoctors/rdm-builder
+login-action,GitHub Action to login against a Docker registry,https://github.com/docker/login-action
+action-slack-notify,GitHub Action for sending a notification to a Slack channel,https://github.com/rtCamp/action-slack-notify
+DockerTarBuilder,它是一个工作流。可快速构建指定架构/平台的docker镜像,https://github.com/wukongdaily/DockerTarBuilder
+JMComic-Crawler-Python,Python API for JMComic | 提供Python API访问禁漫天堂，同时支持网页端和移动端 | 禁漫天堂GitHub Actions下载器🚀,https://github.com/hect0x7/JMComic-Crawler-Python
+rig,The DevEx & Application-layer for your Internal Developer Platform ⛵,https://github.com/rigdev/rig
+s3-sync-action,🔄 GitHub Action to sync a directory with a remote S3 bucket 🧺,https://github.com/jakejarvis/s3-sync-action
+gh-actions-importer,GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, Bamboo, Bitbucket, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.,https://github.com/github/gh-actions-importer
+tauri-action,Build your Web application as a Tauri binary for macOS, Linux and Windows,https://github.com/tauri-apps/tauri-action
+slack-github-action,Send data into Slack using this GitHub Action!,https://github.com/slackapi/slack-github-action
+setup-buildx-action,GitHub Action to set up Docker Buildx,https://github.com/docker/setup-buildx-action
+github-actions-golang,GitHub Actions as CI for Go,https://github.com/mvdan/github-actions-golang
+auth,A GitHub Action for authenticating to Google Cloud.,https://github.com/google-github-actions/auth
+hub-mirror,🚀 Docker 镜像代理，通过 GitHub Actions 将 docker.io、gcr.io、registry.k8s.io、k8s.gcr.io、quay.io、ghcr.io 等国外镜像转换为国内镜像加速下载,https://github.com/togettoyou/hub-mirror
+android-emulator-runner,A GitHub Action for installing, configuring and running hardware-accelerated Android Emulators on macOS virtual machines.,https://github.com/ReactiveCircus/android-emulator-runner
+Cilicon,🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon,https://github.com/traderepublic/Cilicon
+node-typescript-koa-rest,REST API boilerplate using NodeJS and KOA2, typescript. Logging and JWT as middlewares. TypeORM with class-validator, SQL CRUD. Docker included. Swagger docs, actions CI and valuable README,https://github.com/javieraviles/node-typescript-koa-rest
+action-setup,Install pnpm package manager,https://github.com/pnpm/action-setup
+gh-action-pypi-publish,The blessed :octocat: GitHub Action, for publishing your :package: distribution files to PyPI, the tokenless way: https://github.com/marketplace/actions/pypi-publish,https://github.com/pypa/gh-action-pypi-publish
+heroku-deploy,A simple github action that dynamically deploys an app to heroku,https://github.com/AkhileshNS/heroku-deploy
+actions,GitHub Actions for the R community,https://github.com/r-lib/actions
+angular-cli-ghpages,🚀 Deploy your 🅰️Angular app to GitHub pages, Cloudflare Pages or any other Git repo directly from the Angular CLI! Available on NPM.,https://github.com/angular-schule/angular-cli-ghpages
+metadata-action,GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker,https://github.com/docker/metadata-action
+osmosfeed,Turn GitHub into an RSS reader,https://github.com/osmoscraft/osmosfeed
+cancel-workflow-action,⏹️ GitHub Action to cancel previous running workflows on push,https://github.com/styfle/cancel-workflow-action
+actions-toolkit,🛠 A toolkit for building GitHub Actions in Node.js,https://github.com/JasonEtco/actions-toolkit
+firebase-action,GitHub Action for interacting with Firebase,https://github.com/w9jds/firebase-action
+HowToStartOpenSource,⚗️ GitHub开源项目维护协作指南,https://github.com/eryajf/HowToStartOpenSource
+energy-forecasting,🌀 𝗧𝗵𝗲 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝟳-𝗦𝘁𝗲𝗽𝘀 𝗠𝗟𝗢𝗽𝘀 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 | 𝗟𝗲𝗮𝗿𝗻 𝗠𝗟𝗘 & 𝗠𝗟𝗢𝗽𝘀 for free by designing, building and deploying an end-to-end ML batch system ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 2.5 𝘩𝘰𝘶𝘳𝘴 𝘰𝘧 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 & 𝘷𝘪𝘥𝘦𝘰 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴,https://github.com/iusztinpaul/energy-forecasting
+telegram-action,GitHub Action that sends a Telegram message.,https://github.com/appleboy/telegram-action
+goreleaser-action,GitHub Action for GoReleaser,https://github.com/goreleaser/goreleaser-action
+test-reporter,Displays test results from popular testing frameworks directly in GitHub,https://github.com/dorny/test-reporter
+trivy-action,Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities,https://github.com/aquasecurity/trivy-action
+expo-github-action,Expo GitHub Action makes it easy to automate EAS builds or updates,https://github.com/expo/expo-github-action
+github-activity-readme,Updates README with the recent GitHub activity of a user,https://github.com/jamesgeorge007/github-activity-readme
+godot-ci,Docker image to export Godot Engine games. Templates for Gitlab CI and GitHub Actions to deploy to GitLab Pages/GitHub Pages/Itch.io.,https://github.com/abarichello/godot-ci
+terraform-github-actions,GitHub actions for terraform,https://github.com/dflook/terraform-github-actions
+Publish-Docker-Github-Action,A Github Action used to build and publish Docker images,https://github.com/elgohr/Publish-Docker-Github-Action
+changelogithub,Generate changelog for GitHub,https://github.com/antfu/changelogithub
+ec2-github-runner,On-demand self-hosted AWS EC2 runner for GitHub Actions,https://github.com/machulav/ec2-github-runner
+frosty,A mobile Twitch client for iOS and Android with 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support.,https://github.com/tommyxchow/frosty
+ai-codereviewer,AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI's GPT-4 API, improving code quality and saving developers time.,https://github.com/aidar-freeed/ai-codereviewer
+release-changelog-builder-action,A GitHub action that builds your release notes / changelog fast, easy and exactly the way you want.,https://github.com/mikepenz/release-changelog-builder-action
+action-automatic-releases,READONLY: Auto-generated mirror for https://github.com/marvinpinto/actions/tree/master/packages/automatic-releases,https://github.com/marvinpinto/action-automatic-releases
+action-download-artifact,:gear: A GitHub Action to download an artifact associated with given workflow and commit or other criteria,https://github.com/dawidd6/action-download-artifact
+nightly.link,Downloads the latest "nightly" build/artifact from a continuous testing workflow,https://github.com/oprypin/nightly.link
+next-starter,A Next.js starter template, packed with features like TypeScript, Tailwind CSS, Next-auth, Eslint, Stripe, testing tools and more. Jumpstart your project with efficiency and style.,https://github.com/Skolaczk/next-starter
+xfrpc,The xfrpc project is a lightweight implementation of the FRP client written in C language for OpenWRT and IoT systems. It is designed to provide an efficient solution for resource-constrained devices such as OpenWRT routers and IoT devices, which often have limited ROM and RAM space.,https://github.com/liudf0716/xfrpc
+hello-github-actions,Create a GitHub Action and use it in a workflow.,https://github.com/skills/hello-github-actions
+action-hosting-deploy,Automatically deploy shareable previews for your Firebase Hosting sites,https://github.com/FirebaseExtended/action-hosting-deploy
+deploy-pages,GitHub Action to publish artifacts to GitHub Pages for deployments,https://github.com/actions/deploy-pages
+django-telegram-bot,My sexy Django + python-telegram-bot + Celery + Redis + Postgres + Dokku + GitHub Actions template,https://github.com/ohld/django-telegram-bot
+devlopr-jekyll,(FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS) ✨,https://github.com/sujaykundu777/devlopr-jekyll
+run-on-arch-action,A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le, riscv64) via QEMU,https://github.com/uraimo/run-on-arch-action
+action,:bird: A GitHub action to tweet from a repository,https://github.com/twitter-together/action
+upload-release-asset,An Action to upload a release asset via the GitHub Release API,https://github.com/actions/upload-release-asset
+rebase,GitHub Action to automatically rebase PRs,https://github.com/cirrus-actions/rebase
+gradle-build-action,Execute your Gradle build and trigger dependency submission,https://github.com/gradle/gradle-build-action
+harden-runner,Harden-Runner is a CI/CD security agent that works like an EDR for GitHub Actions runners. It monitors network egress, file integrity, and process activity on those runners, detecting threats in real-time.,https://github.com/step-security/harden-runner
+nextjs-prisma-boilerplate,Full stack boilerplate with Next.js, Prisma, Tailwind, TypeScript, Docker, Postgres, documentation, frontend and backend unit and integration tests with Jest, Cypress end-to-end tests, Github Actions CI/CD workflows, and production deployment with Traefik and Docker.,https://github.com/nemanjam/nextjs-prisma-boilerplate
+gitee-pages-action,🤖 Auto Deploy Gitee Pages by GitHub Action | 无须人为干预，由 GitHub Action 自动部署 Gitee Pages,https://github.com/yanglbme/gitee-pages-action
+github-action,:zap::octocat: A Github Action for deploying with the Serverless Framework,https://github.com/serverless/github-action
+npm-install,GitHub Action for install npm dependencies with caching without any configuration,https://github.com/bahmutov/npm-install
+vercel-action,This action make a deployment with github actions instead of Vercel builder.,https://github.com/amondnet/vercel-action
+Clendar,Clendar - Minimal Calendar app. Written in SwiftUI.,https://github.com/vinhnx/Clendar
+github-tag-action,A Github Action to automatically bump and tag master, on merge, with the latest SemVer formatted version. Works on any platform.,https://github.com/mathieudutour/github-tag-action
+cargo,📦 GitHub Action for Rust `cargo` command,https://github.com/actions-rs/cargo
+publish-unit-test-result-action,GitHub Action to publish unit test results on GitHub,https://github.com/EnricoMi/publish-unit-test-result-action
+nn-template,Generic template to bootstrap your PyTorch project.,https://github.com/grok-ai/nn-template
+cpp-project,Boiler plate template for C++ projects, with CMake, Doctest, Travis CI, Appveyor, Github Actions and coverage reports.,https://github.com/bsamseth/cpp-project
+static_status,🚦Bash script to generate a static status page.,https://github.com/Cyclenerd/static_status
+sonarcloud-github-action,Deprecated. Use https://github.com/SonarSource/sonarqube-scan-action instead.,https://github.com/SonarSource/sonarcloud-github-action
+DenverCoder1,Jonah Lawrence's Profile README,https://github.com/DenverCoder1/DenverCoder1
+action-slack,Provides the function of slack notification to GitHub Actions.,https://github.com/8398a7/action-slack
+toolchain,🛠️ GitHub Action for `rustup` commands,https://github.com/actions-rs/toolchain
+lint-action,✨ GitHub Action for detecting and auto-fixing lint errors,https://github.com/wearerequired/lint-action
+terrateam,Terrateam is an open-source GitOps CI/CD platform for automating infrastructure workflows. It integrates with GitHub to orchestrate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi operations via pull requests.,https://github.com/terrateamio/terrateam
+ssh-key-action,GitHub Action that installs SSH key to .ssh,https://github.com/shimataro/ssh-key-action
+github-workflows-kt,Authoring GitHub Actions workflows in Kotlin. You won't go back to YAML!,https://github.com/typesafegithub/github-workflows-kt
+amazing-github-template,🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects. ,https://github.com/dec0dOS/amazing-github-template
+semantic-release-action,GitHub Action for Semantic Release,https://github.com/cycjimmy/semantic-release-action
+runs-on,Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller.,https://github.com/runs-on/runs-on
+actions-mtz-coupons,以自动化的方式领取外卖红包。,https://github.com/vv314/actions-mtz-coupons
+tartelet,⚙️💻 A macOS app that makes it a breeze to manage multiple GitHub Actions runners in ephemeral virtual machines on a single host machine. The benefits are that runners can run in parallel, and each job runs in an isolated environment.,https://github.com/shapehq/tartelet
+chatgpt-action,Let ChatGPT review PRs for you ,https://github.com/kxxt/chatgpt-action
+action-wordpress-plugin-deploy,Deploy your plugin to the WordPress.org repository using GitHub Actions,https://github.com/10up/action-wordpress-plugin-deploy
+gotestfmt,go test output for humans,https://github.com/GoTestTools/gotestfmt
+rick-and-morty-info,Made with Clean architecture + TDD + GraphQL + flutter_bloc + CodeCov + GitHooks + GitHub Actions (CI/CD) and finally with 💙,https://github.com/vedartm/rick-and-morty-info
+jest-coverage-report-action,Track your code coverage in every pull request.,https://github.com/ArtiomTr/jest-coverage-report-action
+ghcertified,Prepare for GitHub Certification exams!,https://github.com/FidelusAleksander/ghcertified
+setup-bun,Set up your GitHub Actions workflow with a specific version of Bun,https://github.com/oven-sh/setup-bun
+AutoTaskScript,自动化任务脚本助手，支持青龙面板及 Docker 部署,https://github.com/sudojia/AutoTaskScript
+safe-pg-migrations,Make your PostgreSQL migrations safe,https://github.com/doctolib/safe-pg-migrations
+seed,Go application GitHub repository template.,https://github.com/golang-templates/seed
+install-qt-action,Install Qt on your Github Actions workflows with just one simple action,https://github.com/jurplel/install-qt-action
+deploy-cloudrun,A GitHub Action for deploying services to Google Cloud Run.,https://github.com/google-github-actions/deploy-cloudrun
+setup-qemu-action,GitHub Action to install QEMU static binaries,https://github.com/docker/setup-qemu-action
+lighthouse-check-action,GitHub Action for running @GoogleChromeLabs Lighthouse audits with all the bells and whistles 🔔 Multiple audits, Slack notifications, and more!,https://github.com/foo-software/lighthouse-check-action
+nextjs-github-pages,🚀 Deploy a Next.js app to GitHub Pages via GitHub Actions,https://github.com/gregrickaby/nextjs-github-pages
+kotlin-gradle-plugin-template,🐘 A template to let you started with custom Gradle Plugins + Kotlin in a few seconds,https://github.com/cortinico/kotlin-gradle-plugin-template
+action,a GitHub action to run `pre-commit`,https://github.com/pre-commit/action
+action-doctl,GitHub Actions for DigitalOcean - doctl,https://github.com/digitalocean/action-doctl
+action-send-mail,:gear: A GitHub Action to send an email to multiple recipients,https://github.com/dawidd6/action-send-mail
+safe-space,Github action that checks the toxicity level of comments and PR reviews to help make repos safe spaces.,https://github.com/charliegerard/safe-space
+ghaction-github-pages,GitHub Action to deploy to GitHub Pages,https://github.com/crazy-max/ghaction-github-pages
+github-action-push-to-another-repository,github Action to push files into another Github repository,https://github.com/cpina/github-action-push-to-another-repository
+Kubernetes-configs,Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks, Production-Ready Checklist - experience from several production environments. AWS, GCP, Azure, ArgoCD, GKE, EKS, AKS, Nginx, Traefik, Kong, Cert Manager, CI/CD, Jenkins, Artifactory, TeamCity, GitHub Actions, Cloud SQL, FluxCD, Spinnaker, Selenium Grid, Moon, Helm + Kustomize,https://github.com/HariSekhon/Kubernetes-configs
+scoop-apps,使用Github Action每天自动合并其他scoop仓库的更新，仓库地址：https://github.com/kkzzhizhou/scoop-apps,https://github.com/kkzzhizhou/scoop-apps
+manual-approval,Pause your GitHub Actions workflow and request manual approval from set approvers before continuing,https://github.com/trstringer/manual-approval
+aws-nuke,Remove all the resources from an AWS account,https://github.com/ekristen/aws-nuke
+vault-action,A GitHub Action that simplifies using HashiCorp Vault™ secrets as build variables.,https://github.com/hashicorp/vault-action
+go-githubactions,Go SDK for GitHub Actions - easily author GitHub Actions in Go,https://github.com/sethvargo/go-githubactions
+combine-mvvm,Sample project with Combine & UIKit framework, MVVM architecture,https://github.com/mcichecki/combine-mvvm
+create-github-app-token,GitHub Action for creating a GitHub App Installation Access Token,https://github.com/actions/create-github-app-token
+issue-metrics,Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.,https://github.com/github/issue-metrics
+actions-comment-run,Execute any script in a GitHub issue comment,https://github.com/nwtgck/actions-comment-run
+create-envfile,Github Action to create a .env file with Github Secrets,https://github.com/SpicyPizza/create-envfile
+github-actions-runner-operator,K8S operator for scheduling github actions runner pods,https://github.com/evryfs/github-actions-runner-operator
+semantic-release,📦🚀 semantic-release written in Go,https://github.com/go-semantic-release/semantic-release
+free-disk-space,:octocat:⚙️🗑️ A GitHub Action to free disk space on an Ubuntu runner.,https://github.com/jlumbroso/free-disk-space
+antq,Point out your outdated dependencies.,https://github.com/liquidz/antq
+auto-approve-action,👍 GitHub Action for automatically approving GitHub pull requests,https://github.com/hmarr/auto-approve-action
+branch-deploy,Enabling Branch Deployments through IssueOps with GitHub Actions - If you find this project useful, give it a star! ⭐️ ,https://github.com/github/branch-deploy
+action-docker-layer-caching,[CAUTION] This repository is not actively maintained. / Enable Docker layer caching in your GitHub Actions workflow.,https://github.com/satackey/action-docker-layer-caching
+lambda-action,GitHub Action for Deploying Lambda code  to an existing function,https://github.com/appleboy/lambda-action
+setup-miniconda,Set up your GitHub Actions workflow with conda via miniconda,https://github.com/conda-incubator/setup-miniconda
+action-discord,🚀 GitHub Action that sends a Discord message.,https://github.com/Ilshidur/action-discord
+cookiecutter-cms,Python-centric Cookiecutter for Molecular Computational Chemistry Packages,https://github.com/MolSSI/cookiecutter-cms
+action,Show a helpful summary of test results in GitHub Actions CI/CD workflow runs,https://github.com/test-summary/action
+maximize-build-space,Github action to maximize the available disk space on Github runners,https://github.com/easimon/maximize-build-space
+hukum,An NPM module that displays Github Action progress in the terminal and aims to improve your development experience by printing status in realtime.,https://github.com/abskmj/hukum
+simonw,https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/,https://github.com/simonw/simonw
+Firebase-Distribution-Github-Action,This action uploads artifacts (.apk or .ipa) to Firebase App Distribution.,https://github.com/wzieba/Firebase-Distribution-Github-Action
+actions,A collection of useful GitHub Actions,https://github.com/maddox/actions
+deployments,🔖 GitHub Action for working painlessly with deployment statuses,https://github.com/bobheadxi/deployments
+prognoza,Libre weather app with widgets and offline support,https://github.com/davidtakac/prognoza
+liberxue.github.io,Liberxue blog for lightweight Jekyll  themes  轻量级自适应 简洁 卡片式博客主题 3秒搞定GitHub blog,https://github.com/Liberxue/liberxue.github.io
+rsync-deployments,GitHub Action for deploying code via rsync over ssh,https://github.com/Burnett01/rsync-deployments
+godot-admob-android,Godot's AdMob Plugin for Android with support for Mediations.,https://github.com/poingstudios/godot-admob-android
+django-react-typescript,This is a non-opinionated Django 5 + React 18 boilerplate built with great development experience and easy deployment in mind.,https://github.com/marcelovicentegc/django-react-typescript
+pandoc-action-example,using the pandoc document converter on GitHub Actions,https://github.com/pandoc/pandoc-action-example
+mkdkr,mkdkr = Makefile + Docker,https://github.com/rosineygp/mkdkr
+DevOps-Books,Curated DevOps Books,https://github.com/DevOps-Projects-Ideas/DevOps-Books
+xcresulttool,A GitHub Action that generates a human-readable test report from the Xcode result bundle and shows it on GitHub Checks.,https://github.com/kishikawakatsumi/xcresulttool
+commitlint-github-action,Lints Pull Request commits with commitlint,https://github.com/wagoid/commitlint-github-action
+action-deploy-theme,:octocat: Deploy your Ghost theme with Github Actions,https://github.com/TryGhost/action-deploy-theme
+gitleaks-action,Protect your secrets using Gitleaks-Action,https://github.com/gitleaks/gitleaks-action
+THIS_REPO_HAS_n_STARS,Click Star ⭐️ to see Github Actions, your name will be in README.md 😀,https://github.com/oslook/THIS_REPO_HAS_n_STARS
+msvc-dev-cmd,GitHub Action to setup Developer Command Prompt for Microsoft Visual C++,https://github.com/ilammy/msvc-dev-cmd
+flutter_template,A Flutter template application showcasing - Clean architecture, Responsive design, State management, Decoupled widgets using the connector pattern, Dependency Injection, Widget, Unit, Golden and E2E testing, Navigation, Localization, Material 3 dynamic theming, Continuous Integration and Continuous Deployment.,https://github.com/wednesday-solutions/flutter_template
+cleanCppProject,Clean C++ project for you to use. Features: Modern CMake, CPack, Doxygen, PlantUML, Catch Unit testing, static analysis,https://github.com/kracejic/cleanCppProject
+pr-size-labeler,🏷 Visualize and optionally limit the size of your Pull Requests,https://github.com/CodelyTV/pr-size-labeler
+ghiblog,GitHub Issues Blog, powered by GitHub Issues and GitHub Actions,https://github.com/jwenjian/ghiblog
+actions-comment-pull-request,GitHub action to comment pull request,https://github.com/thollander/actions-comment-pull-request
+pull-request,⤵️ A GitHub Action for creating pull requests,https://github.com/repo-sync/pull-request
+action-junit-report,Reports junit test results as GitHub Pull Request Check,https://github.com/mikepenz/action-junit-report
+docker-build-with-cache-action,:octocat: Build and push docker images caching each stage to reduce build time,https://github.com/whoan/docker-build-with-cache-action
+lighthouse-action,💡🏠 GitHub Action for running @GoogleChromeLabs Lighthouse webpage audits,https://github.com/jakejarvis/lighthouse-action
+login,Connect to Azure,https://github.com/Azure/login
+workflow-dispatch,A GitHub Action for triggering workflows, using the `workflow_dispatch` event,https://github.com/benc-uk/workflow-dispatch
+lychee-action,Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.,https://github.com/lycheeverse/lychee-action
+actions-netlify,🚀 Netlify deploy from GitHub Actions,https://github.com/nwtgck/actions-netlify
+docker-nginx-php-laravel,Docker environment required to run Laravel (based on official php and mysql docker hub repositories),https://github.com/systemsdk/docker-nginx-php-laravel
+Blazor.FileSystemAccess,A Blazor wrapper for the File System Access browser API.,https://github.com/KristofferStrube/Blazor.FileSystemAccess
+cdk-github-runners,CDK constructs for self-hosted GitHub Actions runners,https://github.com/CloudSnorkel/cdk-github-runners
+ggshield-action,GitGuardian Shield GitHub Action - Find exposed credentials in your commits,https://github.com/GitGuardian/ggshield-action
+github-project-automation-plus,🤖 Automate GitHub Project cards with any webhook event,https://github.com/alex-page/github-project-automation-plus
+ghaction-import-gpg,GitHub Action to import a GPG key,https://github.com/crazy-max/ghaction-import-gpg
+gh-actions-yaml-generator,Ghygen is a GitHub Actions configurator for your PHP / Laravel project.,https://github.com/Hi-Folks/gh-actions-yaml-generator
+deploy-cloud-functions,A GitHub Action that deploys source code to Google Cloud Functions.,https://github.com/google-github-actions/deploy-cloud-functions
+auto-assign-action,An action which adds reviewers to the pull request when the pull request is opened.,https://github.com/kentaro-m/auto-assign-action
+auto-commit,🌳 Making green your Github stats, powered by Github Actions,https://github.com/mazipan/auto-commit
+github-action,None,https://github.com/renovatebot/github-action
+action-ansible-playbook,:gear: A GitHub Action for running Ansible playbooks,https://github.com/dawidd6/action-ansible-playbook
+action-baseline,A GitHub Action for running the ZAP Baseline scan,https://github.com/zaproxy/action-baseline
+android_builder,A useful tool for building android artifacts via Github Action,https://github.com/Wsine/android_builder
+secrets-sync-action,A Github Action that can sync secrets from one repository to many others.,https://github.com/jpoehnelt/secrets-sync-action
+lock-threads,GitHub Action that locks closed issues, pull requests and discussions after a period of inactivity,https://github.com/dessant/lock-threads
+xcodebuild,A continuously resilient `xcodebuild` “GitHub Action”. Also it’s the best.,https://github.com/mxcl/xcodebuild
+turnstyle,🎟️A GitHub Action for serializing workflow runs,https://github.com/softprops/turnstyle
+get-me-a-date,:heart_eyes: Help me get a :cupid: date tonight :first_quarter_moon_with_face:,https://github.com/hfreire/get-me-a-date
+frogbot,🐸 Scans your Git repository with JFrog Xray for security vulnerabilities. 🤖,https://github.com/jfrog/frogbot
+install-action,GitHub Action for installing development tools (mainly from GitHub Releases).,https://github.com/taiki-e/install-action
+poc-github-actions,Various proofs of concept examples using Github Actions 🤖,https://github.com/GuillaumeFalourd/poc-github-actions
+conventional-changelog-action,Github Action that generates a changelog with the Conventional Changelog CLI,https://github.com/TriPSs/conventional-changelog-action
+goodfirstissues,A website that targets developers who want to contribute to open source software but do not know where or how to start.,https://github.com/iedr/goodfirstissues
+tfaction,Framework for Monorepo to build high level Terraform Workflows by GitHub Actions,https://github.com/suzuki-shunsuke/tfaction
+codeball-action,🔮 Codeball – AI Code Review that finds bugs and fast-tracks your code,https://github.com/sturdy-dev/codeball-action
+actions-mdbook,GitHub Actions for mdBook (rust-lang/mdBook) ⚡️ Setup mdBook quickly and build your site fast. Linux (Ubuntu), macOS, and Windows are supported.,https://github.com/peaceiris/actions-mdbook
+ios-build-action,Build iOS project (.xcodeproj, .xcworkspace), and export ipa,https://github.com/yukiarrr/ios-build-action
+pr-preview-action,GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.,https://github.com/rossjrw/pr-preview-action
+IntuneCD,Tool to backup, update and document configurations in Intune,https://github.com/almenscorner/IntuneCD
+actions-yarn,GitHub Action for interacting with yarn,https://github.com/Borales/actions-yarn
+NubesGen,Going to production on Azure is only one `git push` away,https://github.com/microsoft/NubesGen
+actions-timeline,An Action shows timeline of a workflow in a run summary.,https://github.com/Kesin11/actions-timeline
+awesome-gha-snippets,🤯 A list of useful snippets and tips for GitHub Actions (GHA).,https://github.com/yengoteam/awesome-gha-snippets
+repo-file-sync-action,🔄 GitHub Action to keep files like Action workflows or entire directories in sync between multiple repositories.,https://github.com/BetaHuhn/repo-file-sync-action
+awesome-tool-for-readme-profile,List of thing you can add to your github readme profile,https://github.com/haidang666/awesome-tool-for-readme-profile
+rails7-on-docker,Working Rails 7 demo application running in Docker. No node.js or webpack required.,https://github.com/ryanwi/rails7-on-docker
+Terramaid,A utility for generating Mermaid diagrams from Terraform configurations,https://github.com/RoseSecurity/Terramaid
+creatly-backend,🚀 Creatly backend app,https://github.com/Creatly/creatly-backend
+gatsby-gh-pages-action,GitHub Action to build and deploy your Gatsby site to GitHub Pages ❤️🎩,https://github.com/enriikke/gatsby-gh-pages-action
+github-action,CLA Assistant GitHub Action,https://github.com/contributor-assistant/github-action
+action-full-scan,A GitHub Action for running the ZAP Full scan ,https://github.com/zaproxy/action-full-scan
+docker-build-push,Docker Build & Push GitHub Action,https://github.com/mr-smithers-excellent/docker-build-push
+docker-compose-actions-workflow,GitHub Actions workflow example using Docker Compose to build and test a multi-container stack,https://github.com/peter-evans/docker-compose-actions-workflow
+electron-app,💅 A fast and ready-to-go with a well-thought-out structure Electron app boilerplate with ReactJS, TypeScript, CSS / SASS modules, Electron Vite, Eslint, Prettier, GitHub Action releases and more.,https://github.com/daltonmenezes/electron-app
+github-act-runner,act as self-hosted runner,https://github.com/ChristopherHX/github-act-runner
+docker-ci-automation,GitHub Actions automation examples with Docker's official actions,https://github.com/BretFisher/docker-ci-automation
+reposaur,Open source compliance tool for development platforms.,https://github.com/reposaur/reposaur
+actions-build-padavan-openwrt,GitHub Action 学习实例 - 自动编译 padavan 和 openWrt,https://github.com/huazhuangnan/actions-build-padavan-openwrt
+uptime-monitor,⬆️📈 Uptime monitor powered by GitHub Actions,https://github.com/upptime/uptime-monitor
+wait-for-secrets,Publish from GitHub Actions using multi-factor authentication,https://github.com/step-security/wait-for-secrets
+scorecard-action,Official GitHub Action for OpenSSF Scorecard.,https://github.com/ossf/scorecard-action
+check-spelling,Spelling checker action to check spelling in repositories / pull requests / commits,https://github.com/check-spelling/check-spelling
+useful-actions,Curated list of useful Github actions with workflows examples 💡,https://github.com/GuillaumeFalourd/useful-actions
+aws-codebuild-run-build,Run an AWS CodeBuild project as a step in a GitHub Actions workflow job.,https://github.com/aws-actions/aws-codebuild-run-build
+demo.playwright,This repo is used to demo various testing scenarios with Playwright 🎭, using the official test-runner and scripts authored in TypeScript.,https://github.com/MarcusFelling/demo.playwright
+secure-repo,Orchestrate GitHub Actions Security,https://github.com/step-security/secure-repo
+notify-server,🍰微信消息通知,https://github.com/JS-banana/notify-server
+setup-swift,GitHub Action that setup a Swift environment,https://github.com/swift-actions/setup-swift
+ashleymavericks,:octocat: Config for my GitHub profile,https://github.com/ashleymavericks/ashleymavericks
+qodana-action,⚙️ Scan your Go, Java, Kotlin, PHP, Python, JavaScript, TypeScript, .NET projects at GitHub with Qodana. This repository contains Qodana for Azure, GitHub, CircleCI and Gradle,https://github.com/JetBrains/qodana-action
+mlops-guide.github.io,🛠 MLOps end-to-end guide and tutorial website, using IBM Watson, DVC, CML, Terraform, Github Actions and more.,https://github.com/mlops-guide/mlops-guide.github.io
+profile-readme-stats,Showcase your github stats on your profile README.md,https://github.com/teoxoy/profile-readme-stats
+k8s-deploy,GitHub Action for deploying to Kubernetes clusters,https://github.com/Azure/k8s-deploy
+audit-ci,Audit NPM, Yarn, PNPM, and Bun dependencies in continuous integration environments, preventing integration if vulnerabilities are found at or above a configurable threshold while ignoring allowlisted advisories,https://github.com/IBM/audit-ci
+Devops-Tools-Documentation,This Repository contains DevOps Projects and Tools Documentation step by step practice ,https://github.com/johnbedeir/Devops-Tools-Documentation
+deploy-appengine,A GitHub Action that deploys source code to Google App Engine.,https://github.com/google-github-actions/deploy-appengine
+chart-testing-action,A GitHub Action to lint and test Helm charts,https://github.com/helm/chart-testing-action
+publish-spa,A github action and CLI to publish logseq graphs as a SPA app,https://github.com/logseq/publish-spa
+github-slug-action,GitHub Action to expose slug value of GitHub environment variables inside your GitHub workflow,https://github.com/rlespinasse/github-slug-action
+upload-rust-binary-action,GitHub Action for building and uploading Rust binary to GitHub Releases.,https://github.com/taiki-e/upload-rust-binary-action
+electron-shadcn,:electron: Electron Forge with shadcn-ui (Vite + Typescript),https://github.com/LuanRoger/electron-shadcn
+ansible-lint-action,❗️Replaced by https://github.com/marketplace/actions/run-ansible-lint,https://github.com/ansible/ansible-lint-action
+poutine,boostsecurityio/poutine,https://github.com/boostsecurityio/poutine
+sbt-native-image,Plugin to generate native-image binaries with sbt,https://github.com/scalameta/sbt-native-image
+auto-assign,🤖 A Probot app that adds reviewers to pull requests when pull requests are opened.,https://github.com/kentaro-m/auto-assign
+wflow,🐆 EXPERIMENTAL -- Runs GitHub Actions workflows locally (local) -- Don't run your YAML like a 🐪,https://github.com/phishy/wflow
+tox-gh-actions,Seamless integration of tox into GitHub Actions for tox 3 and 4,https://github.com/ymyzk/tox-gh-actions
+pr-labeler-action,Automatically labels your PRs based on branch name patterns like feature/* or fix/*.,https://github.com/TimonVS/pr-labeler-action
+backport,A simple CLI tool that automates the process of backporting commits on a GitHub repo,https://github.com/sorenlouv/backport
+gitploy,Build the deployment system around GitHub in minutes.,https://github.com/gitploy-io/gitploy
+jekyll-action,A GitHub Action to publish Jekyll based content as a GitHub Pages site,https://github.com/helaili/jekyll-action
+CppProjectTemplate,C++ project template with unit-tests, documentation, ci-testing and workflows.,https://github.com/franneck94/CppProjectTemplate
+mc-publish,🚀 Your one-stop GitHub Action for seamless Minecraft project publication across various platforms.,https://github.com/Kir-Antipov/mc-publish
+zola-deploy-action,Github action for building a Zola site and deploying to Github Pages,https://github.com/shalzz/zola-deploy-action
+actions-template-sync,:octocat: Github action for syncing other repositories (templates) with current repository. Any git provider like GitHub (enterprise), GitLab, Gittea,.. are supported for the source repository ,https://github.com/AndreasAugustin/actions-template-sync
+actions,GitHub Action for Infracost.  See cloud cost estimates for Terraform in pull requests. 💰📉 Love your cloud bill! ,https://github.com/infracost/actions
+airship,Helium + Webmachine = Airship. A toolkit for building declarative, RESTful web apps.,https://github.com/tmcgilchrist/airship
+setup-kind,kind (Kubernetes in Docker) GitHub Action,https://github.com/engineerd/setup-kind
+GFWList2AGH,Generate diversion list for AdGuard Home and other softwares,https://github.com/hezhijie0327/GFWList2AGH
+gcloud,GitHub Action for interacting with Google Cloud Platform (GCP),https://github.com/actions-hub/gcloud
+Gato-X,GitHub Attack Toolkit - Extreme Edition - A static analysis and exploit toolkit for GitHub Actions.,https://github.com/AdnaneKhan/Gato-X
+upload-cloud-storage,A GitHub Action for uploading files to a Google Cloud Storage (GCS) bucket.,https://github.com/google-github-actions/upload-cloud-storage
+spring-boot-graalvm,This example project shows how to compile a Webflux based Spring Boot application into a Native App using GraalVM Native Image locally & on GitHub Actions with & without Docker,https://github.com/jonashackt/spring-boot-graalvm
+gdextension,GDExtension template that automatically builds into a self-contained addon for the Godot Asset Library. Updated to Godot 4.3.,https://github.com/nathanfranke/gdextension
+nba-prediction,A project to deploy an online app that predicts the win probability for each NBA game every day. Demonstrates end-to-end Machine Learning deployment.,https://github.com/cmunch1/nba-prediction
+academic-pandoc-template,Write beautifully typeset academic texts with distraction-free Markdown and Pandoc.,https://github.com/maehr/academic-pandoc-template
+setup-rust-toolchain,Setup a specific Rust toolchain with extra features like problem matchers,https://github.com/actions-rust-lang/setup-rust-toolchain
+mongodb-github-action,Use MongoDB in GitHub Actions,https://github.com/supercharge/mongodb-github-action
+automated-build-android-app-with-github-action,CI/CD Automated Build Android App Bundle / APK With Github Action,https://github.com/amirisback/automated-build-android-app-with-github-action
+composer-install,:gift: A GitHub Action to streamline installation of PHP dependencies with Composer.,https://github.com/ramsey/composer-install
+scan-action,Anchore container analysis and scan provided as a GitHub Action,https://github.com/anchore/scan-action
+NottinghamWall,校园墙uniapp,https://github.com/CompPsyUnion/NottinghamWall
+aurora-api-project,Aurora is a project developed in .NET 6, where it aims to show how to create something using an architecture, in layers, simple and approaching, in a simplistic way, some concepts such as DDD.,https://github.com/alexalvess/aurora-api-project
+toc-generator,GitHub Actions to generate TOC (Table of Contents),https://github.com/technote-space/toc-generator
+is-sponsor-label-action,💖🔖 A GitHub Action that labels issues/PRs if the author sponsors the owner of the repo,https://github.com/JasonEtco/is-sponsor-label-action
+ghaction-docker-buildx,:octocat: GitHub Action to set up Docker Buildx,https://github.com/crazy-max/ghaction-docker-buildx
+nrwl-nx-action,A GitHub Action to wrap Nrwl Nx commands in your workflows.,https://github.com/MansaGroup/nrwl-nx-action
+powerplatform-actions,Power Platform GitHub Actions automate common build and deployment tasks related to Power Platform. This includes synchronization of solution metadata (a.k.a. solutions) between development environments and source control, generating build artifacts, deploying to downstream environments, provisioning/de-provisioning of environments, and the ability to perform static analysis checks against your solution using the PowerApps checker service.,https://github.com/microsoft/powerplatform-actions
+hugo_theme_pickles,Modern, Simple and beautiful Hugo theme,https://github.com/mismith0227/hugo_theme_pickles
+npm-publish-action,GitHub action to automatically publish packages to npm,https://github.com/pascalgn/npm-publish-action
+git-publish-subdir-action,GitHub Action to push a subdirectory as a branch to any git repo (e.g. for GitHub Pages),https://github.com/s0/git-publish-subdir-action
+tagpr,automatically creates and updates a pull request for unreleased items, tag them when they are merged, and create releases.,https://github.com/Songmu/tagpr
+branch-names,:octocat: Github action to retrieve branch or tag names with support for all events.,https://github.com/tj-actions/branch-names
+publish-vscode-extension,GitHub action to publish your VS Code Extension to the Open VSX Registry or Visual Studio Marketplace.,https://github.com/HaaLeo/publish-vscode-extension
+monorepo,Showcase of how to manage building projects inside monorepo with Gradle as build tool and CircleCI, Bitbucket Pipelines, Travis CI or GitHub Actions as CI tool.,https://github.com/zladovan/monorepo
+bake-action,GitHub Action to use Docker Buildx Bake as a high-level build command,https://github.com/docker/bake-action
+goreadme,Generate readme file from Go doc. Now available as a Github action!,https://github.com/posener/goreadme
+gpt-translate,💬Translate Files into Any Languages with AI,https://github.com/3ru/gpt-translate
+import-codesign-certs,GitHub Action for Importing Code-signing Certificates into a Keychain,https://github.com/Apple-Actions/import-codesign-certs
+ColorCop, a free multi-purpose color picker for Windows,https://github.com/ColorCop/ColorCop
+todo-actions,Turn TODO in source code into issues and close them when they are gone. Runs on GitHub Actions.,https://github.com/dtinth/todo-actions
+TF2DeepFloorplan,TF2 Deep FloorPlan Recognition using a Multi-task Network with Room-boundary-Guided Attention. Enable tensorboard, quantization, flask, tflite, docker, github actions and google colab.,https://github.com/zcemycl/TF2DeepFloorplan
+CodeCoverageSummary,A GitHub Action that reads Cobertura format code coverage files and outputs a text or markdown summary.,https://github.com/irongut/CodeCoverageSummary
+load-secrets-action,Load secrets from 1Password into your GitHub Actions jobs,https://github.com/1Password/load-secrets-action
+hadolint-action,GitHub action for Hadolint, A  Dockerfile linting tool,https://github.com/hadolint/hadolint-action
+aws-cdk-github-actions,None,https://github.com/youyo/aws-cdk-github-actions
+setup-cpp,Install all the tools required for building and testing C++/C projects.,https://github.com/aminya/setup-cpp
+setup-ocaml,GitHub Action for the OCaml programming language,https://github.com/ocaml/setup-ocaml
+vale-action,:octocat: The official GitHub Action for Vale -- install, manage, and run Vale with ease.,https://github.com/errata-ai/vale-action
+deploy-to-neocities,🐈 Github Action to deploy a folder to Neocities,https://github.com/bcomnes/deploy-to-neocities
+vite-component-library-template,⚛️ Vite + React Starter Component Library Template,https://github.com/IgnacioNMiranda/vite-component-library-template
+codeclimate-action,GitHub Action to send your code coverage to CodeClimate,https://github.com/paambaati/codeclimate-action
+allero,By scanning CI/CD misconfigurations, Allero helps reduce production issues, harden your security posture and shift-left CI/CD from DevOps to developers.,https://github.com/allero-io/allero
+action-label-syncer,GitHub Action to sync GitHub labels in the declarative way,https://github.com/micnncim/action-label-syncer
+jenkinsfile-runner-github-actions,Jenkins single-shot pipeline execution in a GitHub Action POC,https://github.com/jenkinsci/jenkinsfile-runner-github-actions
+github-actions-cache-server,Self-hosted GitHub Actions cache server implementation. Compatible with official 'actions/cache' action,https://github.com/falcondev-oss/github-actions-cache-server
+github-actions-badge,:shield: Shields.io Badge for your GitHub Actions,https://github.com/Atrox/github-actions-badge
+setup-graalvm,GitHub Action for setting up GraalVM distributions.,https://github.com/graalvm/setup-graalvm
+selenium-java-test-automation-architecture,Ready-to-use UI Test Automation Architecture using Java and Selenium WebDriver.,https://github.com/Tahanima/selenium-java-test-automation-architecture
+gajira,GitHub Actions for Jira,https://github.com/atlassian/gajira
+cicd-templates,Manage your Databricks deployments and CI with code.,https://github.com/databrickslabs/cicd-templates
+serv00-auto-scripts,Serv00/CT8 - Free Host Auto Renewal (Automatic SSH and PM2) and Other Scripts,https://github.com/lopins/serv00-auto-scripts
+sphinx-action,Github action that builds docs using sphinx and places errors inline,https://github.com/ammaraskar/sphinx-action
+typescript-api-skeleton,🔷🌍 TypeScript API Skeleton: Bootstrap your new HTTP API backend with TypeScript,https://github.com/CodelyTV/typescript-api-skeleton
+pytest-coverage-comment,Comments a pull request with the pytest code coverage badge and full report,https://github.com/MishaKav/pytest-coverage-comment
+uptoc,A static file deployment tool that supports multiple platforms./ 一个支持多家云厂商的静态文件部署工具,https://github.com/bonaysoft/uptoc
+Azure-Guide,Microsoft Azure Guide. Learn all about Microsoft Azure Tools, Services, and Certifications.,https://github.com/mikeroyal/Azure-Guide
+action-slack,🚀 (Unmaintained) GitHub Action that sends a Slack notification.,https://github.com/Ilshidur/action-slack
+webring,“วงแหวนเว็บ” แห่งนี้สร้างขึ้นเพื่อส่งเสริมให้ศิลปิน นักออกแบบ และนักพัฒนาชาวไทย สร้างเว็บไซต์ของตัวเองและแบ่งปันการเข้าชมซึ่งกันและกัน,https://github.com/wonderfulsoftware/webring
+github-action-scp,⬆️ Copy a folder to a remote server using SSH,https://github.com/garygrossgarten/github-action-scp
+jamstack-serverless,Learn JAMstack Serverless Modern App Development in Baby Steps using Gatsby.js, React, TypeScript, GraphQL, Contentful, Netlify, FaunaDB, MongoDB, Apollo, Github Actions, Project Fugu, and CSS Houdini.,https://github.com/panacloud-modern-global-apps/jamstack-serverless
+release-downloader,Github action to download release assets from private or public repositories,https://github.com/robinraju/release-downloader
+keepalive-workflow,GitHub action to prevent GitHub from suspending your cronjob based triggers due to repository inactivity ,https://github.com/gautamkrishnar/keepalive-workflow
+nextjs-cron,Cron jobs with Github Actions for Next.js apps on Vercel▲,https://github.com/paulphys/nextjs-cron
+screenshot-website,:camera_flash: A GitHub Action to capture screenshots of a website, across Windows, Mac, and Linux,https://github.com/swinton/screenshot-website
+github-local-actions,✨ Run your GitHub Actions locally in VS Code!,https://github.com/SanjulaGanepola/github-local-actions
+get-diff-action,GitHub Actions to get git diff,https://github.com/technote-space/get-diff-action
+build-and-inspect-python-package,Build and Inspect Python Packages in GitHub Actions,https://github.com/hynek/build-and-inspect-python-package
+winget-releaser,Publish new releases of your application to the Windows Package Manager easily.,https://github.com/vedantmgoyal9/winget-releaser
+actions,A collection of GitHub Actions to accelerate your Gradle Builds on GitHub,https://github.com/gradle/actions
+kube-tools,Kubernetes tools for GitHub Actions CI,https://github.com/stefanprodan/kube-tools
+octoscan,Octoscan is a static vulnerability scanner for GitHub action workflows.,https://github.com/synacktiv/octoscan
+3musketeers,Test, build, and deploy your apps from anywhere, the same way!,https://github.com/flemay/3musketeers
+issue-label-manager-action,GitHub Action to declaratively setup labels across repos,https://github.com/lannonbr/issue-label-manager-action
+pr-stats,PR에 대한 유용한 통계를 산출하는 GitHub Actions,https://github.com/naver/pr-stats
+buildkit-cache-dance,Save `RUN --mount=type=cache` caches on GitHub Actions ( Forked from https://github.com/overmindtech/buildkit-cache-dance ),https://github.com/reproducible-containers/buildkit-cache-dance
+k3d-action,A GitHub Action to run lightweight ephemeral Kubernetes clusters during workflow.  Fundamental advantage of this action is a full customization of embedded k3s clusters. In addition, it provides a private image registry and multi-cluster support.,https://github.com/AbsaOSS/k3d-action
+Draco-OpenWrt-GL-AX1800,使用 GitHub Actions 云编译 GL.iNet路由器  OpenWrt 固件,https://github.com/draco-china/Draco-OpenWrt-GL-AX1800
+github-action-get-previous-tag,Get the previous tag,https://github.com/WyriHaximus/github-action-get-previous-tag
+php-cs-fixer-ga,GithubAction for PHP-CS-Fixer,https://github.com/OskarStark/php-cs-fixer-ga
+composer,Use the Composer CLI in your Github Actions.,https://github.com/php-actions/composer
+action-android,Collection of Android-related GitHub Actions,https://github.com/Malinskiy/action-android
+ng-demo,🦴 Bare Bones Angular and Angular CLI Tutorial,https://github.com/mraible/ng-demo
+github-env-vars-action,:octocat: 🚀 GitHub Action for Environment Variables,https://github.com/FranzDiebold/github-env-vars-action
+autoupdate,A GitHub Action that auto-updates pull requests branches, whenever changes are pushed to their destination branch.,https://github.com/chinthakagodawita/autoupdate
+next-kickstart,Next.js 14 kickstarter. Zero setup & edge ready. Take what you need: ESLint, Prettier, Tailwind, tRPC, WebSockets, Drizzle, Lucia Auth, Vitest, Testing Library, Playwright, PWA, Docker, CI, Bun,https://github.com/syhner/next-kickstart
+assume-aws-role-action,Assume AWS IAM Roles using SAML.to in GitHub Actions,https://github.com/saml-to/assume-aws-role-action
+publish-packages,Use GitHub Actions to publish your project to a Docker image.,https://github.com/skills/publish-packages
+actions-status-discord,Post GitHub Actions status to Discord as an beautiful embed,https://github.com/sarisia/actions-status-discord
+django-step-by-step,A Django + Vue reference project that focuses on developer tooling and CI/CD + IaC,https://github.com/briancaffey/django-step-by-step
+github-action,A GitHub action to manage and synchronize localization resources with your Crowdin project,https://github.com/crowdin/github-action
+ghpages,Deploy arbitrary static assets through GitHub Actions,https://github.com/maxheld83/ghpages
+typescript-react_best_practices-vite_template,<⚡⚛️> Start your React project with Vite following code best practices (TypeScript, Linting, testing, CI/CD…),https://github.com/CodelyTV/typescript-react_best_practices-vite_template
+upload-to-release,A GitHub Action that uploads a file to a new release.,https://github.com/JasonEtco/upload-to-release
+bump-homebrew-formula-action,Automatically bump Homebrew formula after a release,https://github.com/mislav/bump-homebrew-formula-action
+WeatherApp,☁️ ❄️ A KMP weather app built with Jetpack Compose , MVI , Unit Testing , Hilt and Location Services, Github Actions, Firebase + Material 3,https://github.com/odaridavid/WeatherApp
+gedoor-Build,在线编译你自己的阅读APP，自动构建，自动发布,https://github.com/10bits/gedoor-Build
+github-action,None,https://github.com/dokku/github-action
+git-release,Publish a GitHub Release :package: with Assets :file_folder: and Changelog :bookmark:,https://github.com/anton-yurchenko/git-release
+ghaction-virustotal,GitHub Action to upload and scan files with VirusTotal,https://github.com/crazy-max/ghaction-virustotal
+pinboard-kotlin,Unofficial Android client for Pinboard and Linkding,https://github.com/fibelatti/pinboard-kotlin
+pull-request-action,open a pull request when a branch is pushed or updated,https://github.com/vsoch/pull-request-action
+Python-Selenium-Action,Run Selenium with Python via Github Actions using Headless or Non-Headless browsers! ,https://github.com/MarketingPipeline/Python-Selenium-Action
+flatpak-github-actions,Build your Flatpak application using Github Actions,https://github.com/flatpak/flatpak-github-actions
+notify-slack-action,🔔 Send a Slack Notification from Github Actions regarding failure, warnings, or even success.,https://github.com/ravsamhq/notify-slack-action
+Go-Kafka-gRPC-MongoDB-microservice,Go products microservice,https://github.com/AleksK1NG/Go-Kafka-gRPC-MongoDB-microservice
+Awesome-Repo-Template,An awesome repo template packed with tons of tools & more to kick-start your next project / repo!,https://github.com/MarketingPipeline/Awesome-Repo-Template
+nestjs-boilerplate,NestJS boilerplate with TypeORM, ExpressJS, Fastify, Jest, I18n & Vuepress docs,https://github.com/vndevteam/nestjs-boilerplate
+repo-sync,🔄 Keep a pair of GitHub repos in sync,https://github.com/repo-sync/repo-sync
+assign-one-project-github-action,Automatically add an issue or pull request to specific GitHub Project(s) when you create and/or label them.,https://github.com/srggrs/assign-one-project-github-action
+actions-cli,Monitor your GitHub Actions in real time from the command line,https://github.com/remorses/actions-cli
+TF-via-PR,Plan and apply Terraform/OpenTofu via PR automation, using best practices for secure and scalable IaC workflows.,https://github.com/OP5dev/TF-via-PR
+learn-terraform-github-actions,None,https://github.com/hashicorp-education/learn-terraform-github-actions
+verify-changed-files,:octocat: Github action to verify file changes that occur during the workflow execution.,https://github.com/tj-actions/verify-changed-files
+setup-scala,GitHub Action to install any version of Java (GraalVM, Java 8, Java 11, Java 14, ...) via Jabba. Works for any JVM language including Java, Scala and Kotlin.,https://github.com/olafurpg/setup-scala
+action,A GitHub Action that starts preview deployments for your pull requests and branches. It can work with any application that has a valid Docker Compose file.,https://github.com/pullpreview/action
+contributors-readme-action,A github action to automate a contributors section in readme.,https://github.com/akhilmhdh/contributors-readme-action
+ghactions,GitHub actions for R and accompanying R package,https://github.com/maxheld83/ghactions
+express-webpack-react-redux-typescript-boilerplate,:tada: A full-stack boilerplate that using express with webpack, react and typescirpt!,https://github.com/Armour/express-webpack-react-redux-typescript-boilerplate
+invalidate-cloudfront-action,Invalidate AWS CloudFront distribution paths,https://github.com/chetan/invalidate-cloudfront-action
+lifeparticle,📠  A Self-Updating Public Profile for GitHub,https://github.com/lifeparticle/lifeparticle
+nx-set-shas,:sparkles: A Github Action which sets the base and head SHAs required for `nx affected` commands in CI,https://github.com/nrwl/nx-set-shas
+compose-action,This action runs your docker-compose file and clean up before action finished,https://github.com/hoverkraft-tech/compose-action
+ssh-action,🖥 github ssh action,https://github.com/fifsky/ssh-action
+TMDb-Paging-Playground,A sample to showcase Kotlin, MVVM, Paging, Dagger, RxJava, Coroutines, Jetpack Compose, Retrofit, Glide, DataBinding, MotionLayout, Espresso, Unit test, In-app updates and Github Actions. ,https://github.com/alirezaeiii/TMDb-Paging-Playground
+jacoco-report,Github action that publishes the JaCoCo report as a comment in the Pull Request,https://github.com/Madrapps/jacoco-report
+merge-to-earn,The reward system for open source development,https://github.com/slice-so/merge-to-earn
+figma-action,Export image assets from Figma to GitHub,https://github.com/primer/figma-action
+Github-Actions-React-Native,Github Action for React Native Build 🦊,https://github.com/realabbas/Github-Actions-React-Native
+cuda-toolkit,GitHub Action to install CUDA,https://github.com/Jimver/cuda-toolkit
+setup-chrome,Set up your GitHub Actions workflow with a specific version of chromium ,https://github.com/browser-actions/setup-chrome
+very_good_coverage,GitHub Action which helps enforce code coverage threshold using lcov created by Very Good Ventures 🦄,https://github.com/VeryGoodOpenSource/very_good_coverage
+SupportDocs,Generate help centers for your iOS apps. Hosted by GitHub and always up-to-date.,https://github.com/aheze/SupportDocs
+gh-actions,A Github action for generating Terraform module documentation using terraform-docs and gomplate,https://github.com/terraform-docs/gh-actions
+go-starter,Go 服务框架脚手架. 整合 echo、swag、viper、nsq、logrus、fx、xorm、cobra 等第三方库,https://github.com/pinkhello/go-starter
+github-actions,Open source list of GitHub Actions. Free free to submit a PR to add your action,https://github.com/boyney123/github-actions
+wasmedge-nodejs-starter,A template project to run Rust functions in Node.js through the Second State WebAssembly engine.,https://github.com/second-state/wasmedge-nodejs-starter
+drupal9ci,Command Line Interface for implementing Continuous Integration in Drupal 9,https://github.com/Lullabot/drupal9ci
+pr2tik1,My GitHub profile-README,https://github.com/pr2tik1/pr2tik1
+pr-compliance-action,Check PR for compliance on title, linked issues, and files changed,https://github.com/mtfoley/pr-compliance-action
+machine,Machine is a workflow/pipeline library for processing data,https://github.com/whitaker-io/machine
+contosotraders-cloudtesting,The Contoso Traders app is a sample application showcasing Playwright, Azure Load Testing, Azure Chaos Studio.,https://github.com/microsoft/contosotraders-cloudtesting
+tech-blog-rss-feed,企業のテックブログの更新をまとめたRSSフィードを配信,https://github.com/yamadashy/tech-blog-rss-feed
+github-test-reporter,Publish and view test reporting directly in your GitHub Actions CI/CD workflow and Pull Requests with detailed test summaries, failed test analyses, and flaky test detection.,https://github.com/ctrf-io/github-test-reporter
+eShopOnWeb,Repository maintained by AZ-400 course and Learn content community. Project used for AZ-400 Labs. Forked from: https://github.com/dotnet-architecture/eShopOnWeb  Sample - ASP.NET Core 8.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. ,https://github.com/MicrosoftLearning/eShopOnWeb
+get-secretmanager-secrets,A GitHub Action for accessing secrets from Google Secret Manager and making them available as outputs.,https://github.com/google-github-actions/get-secretmanager-secrets
+leetcode-stats,Dynamically generated LeetCode stats for your GitHub READMEs!,https://github.com/KnlnKS/leetcode-stats
+Nuitka-Action,Action to build with Nuitka on GitHub in your workflows,https://github.com/Nuitka/Nuitka-Action
+Selenium-Python-Example,Selenium Python example project with pytest and Allure report,https://github.com/nirtal85/Selenium-Python-Example
+HelloActions-Qt,Qt use github-actions(Qt项目使用github的持续集成),https://github.com/jaredtao/HelloActions-Qt
+blackcater,Using Node.js to generate my Github profile readme automatically.,https://github.com/blackcater/blackcater
+powerplatform-actions-lab,This repo contains sample workflow definitions for GitHub Actions for Microsoft Power Platform.,https://github.com/microsoft/powerplatform-actions-lab
+todoist-readme,🚧 Updates README with Todoist Stats of a user,https://github.com/abhisheknaiidu/todoist-readme
+surge-preview,🔂 Preview website in surge.sh for every pull request.,https://github.com/afc163/surge-preview
+setup-zig,use a @ziglang compiler in your github actions workflows,https://github.com/goto-bus-stop/setup-zig
+pytest-github-actions-annotate-failures,Pytest plugin to annotate failed tests with a workflow command for GitHub Actions,https://github.com/pytest-dev/pytest-github-actions-annotate-failures
+swifty-marvel,A SwiftUI app to showcase my iOS development skills ( Clean Architecture  + MVVM + CoreData + Swinject + Async Await + Unit Testing + Arkana + Mockingbird + CI Pipeline ),https://github.com/mohanedy/swifty-marvel
+openwrt_x86,自编译OpenWrt x86固件  提供vhdx和vmdk格式的固件 对虚拟机支持良好 内置ZeroTier、PassWall、AdGuardHome、迅雷快鸟、UU加速器、FRP、解锁网易云灰色、KMS等优质插件，稳定流畅。,https://github.com/jiajiaxd/openwrt_x86
+deploy-to-vercel-action,🎬▲ Deploy your project to Vercel using GitHub Actions. Supports PR previews and GitHub deployments.,https://github.com/BetaHuhn/deploy-to-vercel-action
+CloudCaptain,Welcome to CloudCaptain, your one-stop-shop for all things cloud-related!,https://github.com/nomadicmehul/CloudCaptain
+misspell-fixer-action,📝Automatically fixes typos and mistakes in your source code and docs!,https://github.com/sobolevn/misspell-fixer-action
+actions-sms,Send an SMS through GitHub Actions,https://github.com/twilio-labs/actions-sms
+sonarqube-action,Integrate SonarQube scanner to GitHub Actions,https://github.com/kitabisa/sonarqube-action
+arxiv-daily,🎓 Automatically Update Some Fields Papers Daily using Github Actions (Update Every 12th hours),https://github.com/beiyuouo/arxiv-daily
+jest-github-action,Jest action adding checks with annotations to your pull requests and coverage table as comments,https://github.com/mattallty/jest-github-action
+gobenchdata,📉 Run Go benchmarks, publish results to an interactive web app, and check for performance regressions in your pull requests,https://github.com/bobheadxi/gobenchdata
+pipeline.nvim,See status of ci/cd pipeline runs directly in neovim. Currently supports GitHub Actions and GitLab CI.,https://github.com/topaxi/pipeline.nvim
+zillacode,Open Source LeetCode for PySpark, Spark, Pandas and DBT/Snowflake,https://github.com/davidzajac1/zillacode
+setup-helm,Github Action for installing Helm,https://github.com/Azure/setup-helm
+gale,GitHub Action Local Executor,https://github.com/aweris/gale
+aws-ecr-action,This Action allows you to create Docker images and push into a ECR repository.,https://github.com/kciter/aws-ecr-action
+ghaction-github-labeler,GitHub Action to manage labels on GitHub,https://github.com/crazy-max/ghaction-github-labeler
+setup-packer,Run HashiCorp Packer as part of your GitHub Actions Workflow,https://github.com/hashicorp/setup-packer
+python-collab-template,🛠 Python project template with unit tests, code coverage, linting, type checking, Makefile wrapper, and GitHub Actions.,https://github.com/eugeneyan/python-collab-template
+AzurePipelinesToGitHubActionsConverter,Convert Azure Pipelines YAML to GitHub Actions YAML,https://github.com/samsmithnz/AzurePipelinesToGitHubActionsConverter
+skunk-html,Markdown Blog with GitHub Pages. Easy setup!,https://github.com/MaxGripe/skunk-html
+github-stats-box,📌 Update a gist to contain your GitHub stats,https://github.com/bokub/github-stats-box
+myshoes,Auto-scaling VirtualMachine runner 🏃  for GitHub Actions,https://github.com/whywaita/myshoes
+cargo-deny-action,❌ GitHub Action for cargo-deny 🦀,https://github.com/EmbarkStudios/cargo-deny-action
+markdown-to-pdf,A GitHub Action to make PDF and HTML files from Markdown,https://github.com/BaileyJM02/markdown-to-pdf
+CompatHelper.jl,Automatically update the [compat] entries for your Julia package's dependencies,https://github.com/JuliaRegistries/CompatHelper.jl
+poetry-publish,An action to build and publish python package to pypi (https://pypi.org/) using poetry (https://github.com/sdispater/poetry),https://github.com/JRubics/poetry-publish
+action,The autofix.ci GitHub Action.,https://github.com/autofix-ci/action
+docker-ros,docker-ros automatically builds development and deployment Docker images for your ROS-based repositories,https://github.com/ika-rwth-aachen/docker-ros
+setup-protoc,GitHub Action to setup the protoc compiler for protocol buffers,https://github.com/arduino/setup-protoc
+automatic-releases,Automated release process for `laminas/` projects, usable as github action,https://github.com/laminas/automatic-releases
+maturin-action,GitHub Action to install and run a custom maturin command with built-in support for cross compilation,https://github.com/PyO3/maturin-action
+Fast-Api-example,Simple asynchronous API implemented with Fast-Api framework utilizing Postgres as a Database and SqlAlchemy as ORM . GitHub Actions as CI/CD Pipeline,https://github.com/KenMwaura1/Fast-Api-example
+xvfb-action,Run your tests headlessly ❌🖥️,https://github.com/GabrielBB/xvfb-action
+sample-code-movies,This repository contains sample code. Its purpose being, to quickly demonstrate Android and software development in general, clean code, best practices, testing and all those other must know goodies.,https://github.com/ParaskP7/sample-code-movies
+changelog-generator,GitHub Action to generate changelogs, release notes, whatever,https://github.com/metcalfc/changelog-generator
+action,GitHub Action for publishing your Storybook to Chromatic,https://github.com/chromaui/action
+terraform-multienv,A template for maintaining a multiple environments infrastructure with Terraform. This template includes a CI/CD process, that applies the infrastructure in an AWS account.,https://github.com/unfor19/terraform-multienv
+scala-steward-action,A Github Action to launch Scala Steward in your repository,https://github.com/scala-steward-org/scala-steward-action
+actions,GitHub Actions for the asdf version manager,https://github.com/asdf-vm/actions
+workflow-conclusion-action,GitHub action to get workflow conclusion.,https://github.com/technote-space/workflow-conclusion-action
+commit-bot,Automatically generates GitHub activity,https://github.com/theshteves/commit-bot
+dagger-for-github,GitHub Action for Dagger,https://github.com/dagger/dagger-for-github
+WaterDragon,WaterDragon:用GithubAction实现代理功能。红队,cve,代理池,隐匿,攻防,对抗，hackone,src,proxy,CVE-2020,CVE-2021,CVE-2022,https://github.com/sh3d0ww01f/WaterDragon
+Templates,100+ DevOps Code & Config templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, Groovy, Maven, SBT, Gradle, Make, Jenkinsfile, Makefile, Dockerfile, docker-compose.yml, Vagrantfile, M4 etc...,https://github.com/HariSekhon/Templates
+repo-lockdown,GitHub Action that immediately closes and locks issues and pull requests,https://github.com/dessant/repo-lockdown
+setup,GitHub Action and `curl pkgx.sh | sh`,https://github.com/pkgxdev/setup
+setup-kubectl,GitHub Action for installing Kubectl,https://github.com/Azure/setup-kubectl
+build-godot-action,GitHub action that builds a Godot project for multiple platforms,https://github.com/yeslayla/build-godot-action
+website-to-gif,GitHub Action to turn your website into a GIF :camera:,https://github.com/PabloLec/website-to-gif
+cloudflare-purge-action,🗑️ GitHub Action to purge a website's cache via the Cloudflare API,https://github.com/jakejarvis/cloudflare-purge-action
+pax-react-native-starter,Next-gen react-native development monorepo starter with best in-class tools tailored for DX⚡️,https://github.com/pax-k/pax-react-native-starter
+mysql-action,GitHub Action to setup a MySQL database,https://github.com/mirromutth/mysql-action
+recent-activity,Add your recent activity to your profile readme!,https://github.com/Readme-Workflows/recent-activity
+clang-format-lint-action,This action checks if the source code matches the .clang-format file.,https://github.com/DoozyX/clang-format-lint-action
+action-pr-title,Github action to enforce Pull Request title conventions,https://github.com/deepakputhraya/action-pr-title
+Daily-Bonus,签到脚本✅：v2ex、bilibili 直播、百合会、Yurifans,https://github.com/jckling/Daily-Bonus
+pytorch-project-template,Deep Learning project template for PyTorch (multi-gpu training is supported),https://github.com/ryul99/pytorch-project-template
+changelog-ci,Changelog CI is a GitHub Action that enables a project to automatically generate changelogs,https://github.com/saadmk11/changelog-ci
+changelog-updater-action,A GitHub Action to automatically update a "Keep a Changelog" CHANGELOG with the latest release notes.,https://github.com/stefanzweifel/changelog-updater-action
+PSDevOps,PowerShell Tools for DevOps,https://github.com/StartAutomating/PSDevOps
+web-curriculum,subjects and project boards for Vets Who Code troops,https://github.com/Vets-Who-Code/web-curriculum
+youtube-to-spotify,An automation process to convert YouTube video into audio file and uploading it to Anchor.fm podcast,https://github.com/Schroedinger-Hat/youtube-to-spotify
+golang-action,A GitHub Action to run Go commands,https://github.com/cedrickring/golang-action
+go-test-coverage,go-test-coverage is a tool designed to report issues when test coverage falls below a specified threshold,https://github.com/vladopajic/go-test-coverage
+git-cliff-action,GitHub action to generate a changelog based on the Git history,https://github.com/orhun/git-cliff-action
+slatify,Slack Notification for GitHub Actions :bell:,https://github.com/lazy-actions/slatify
+action-sh-checker,A GitHub action that performs static analysis for shell scripts using shellcheck, shfmt and checkbashisms.,https://github.com/luizm/action-sh-checker
+actions,A Collection of GitHub Actions,https://github.com/marvinpinto/actions
+action-shopify,Deploy Shopify theme with Theme Kit on GitHub Actions,https://github.com/pgrimaud/action-shopify
+changelog-action,GitHub Action to generate changelog from conventional commits,https://github.com/requarks/changelog-action
+Covid-19-Tracker,Android app to track COVID-19 cases in India and globally. ,https://github.com/HariKulhari06/Covid-19-Tracker
+auto-request-review,A GitHub Action that automatically requests review of a pull request based on files changes and/or groups the author belongs to 🤖,https://github.com/necojackarc/auto-request-review
+actions-tagger,A meta-action to keep your action versions up-to-date :rocket:,https://github.com/Actions-R-Us/actions-tagger
+Darock-Bili,BiliBili on Apple Watch,https://github.com/Darock-Studio/Darock-Bili
+capistrano-deploy,Github Actions for Capistrano,https://github.com/miloserdow/capistrano-deploy
+setup-typst,📑 Install Typst for use in GitHub Actions,https://github.com/typst-community/setup-typst
+docker-apache-php-laravel,Docker environment required to run Laravel (based on official php and mysql docker hub repositories),https://github.com/systemsdk/docker-apache-php-laravel
+github-notion-star,None,https://github.com/lcjnil/github-notion-star
+Spiderpig86,:gem: Me. This is a self-updating README. Star it if you like it :),https://github.com/Spiderpig86/Spiderpig86
+alls-green,A check for whether the dependency jobs are all green.,https://github.com/re-actors/alls-green
+github-action-gitflow-release-workflow,Example workflows for automated releases in a GitFlow-style project using GitHub actions.,https://github.com/thomaseizinger/github-action-gitflow-release-workflow
+postgresql-action,GitHub Action to setup a PostgreSQL database,https://github.com/Harmon758/postgresql-action
+actions,네이버페이 프론트엔드 조직에서 만든 custom action을 모노레포로 관리하는 저장소입니다.,https://github.com/NaverPayDev/actions
+terraform-code-standards,Comprehensive set of Terraform coding standards designed for enterprise-level projects,https://github.com/casa-de-vops/terraform-code-standards
+ci-matters,Integration (comparison) of different continuous integration services on Android project,https://github.com/vgaidarji/ci-matters
+nested-github-runners-action,GitHub Action to run multiple self-hosted runners in a hosted GitHub Runner,https://github.com/dougcalobrisi/nested-github-runners-action
+elysia-kickstart, ElysiaJS boilerplate with HTMX, Tailwind, Auth.js, Drizzle, CI. Deploy in one click to Railway or Vercel Edge Functions,https://github.com/syhner/elysia-kickstart
+CanadaPubSecALZ,This reference implementation is based on Cloud Adoption Framework for Azure and provides an opinionated implementation that enables ITSG-33 regulatory compliance by using NIST SP 800-53 Rev. 4 and Canada Federal PBMM Regulatory Compliance Policy Sets.,https://github.com/Azure/CanadaPubSecALZ
+aws-cdk-github-oidc,CDK constructs to use OpenID Connect for authenticating your Github Action workflow with AWS IAM,https://github.com/aripalo/aws-cdk-github-oidc
+Terraform-Azure,Contains Terraform code for Azure deployment - snippets, useful bits, samples, labs and more. All deployable in small instances with ready to go code. These are designed for training/learning and documentation on deployment using GitHub Actions and Terraform Cloud is included.,https://github.com/jakewalsh90/Terraform-Azure
+action-deploy-wordpress,GitHub Action for deploying a WordPress site using using PHP's Deployer.org,https://github.com/rtCamp/action-deploy-wordpress
+bilibili-toolman,配合 GH Actions 的哔哩哔哩创作中心 Python API / 搬运工具,https://github.com/mos9527/bilibili-toolman
+playwright-ts-template,Playwright Typescript Automation testing framework Template is designed for Web (Desktop & Mobile), API, and Electron apps. Stable and Robust layer on top of Playwright with inbuilt Utilities, Linting, Logger, Web hooks, Github actions, Reports and much more,https://github.com/vasu31dev/playwright-ts-template
+stethoscope,🩺 Track, visualize, and embed your health and life data — location, health, work, play, and more,https://github.com/stethoscope-js/stethoscope
+gitactionboard,GitactionBoard - Ultimate Dashboard for GithubActions.,https://github.com/otto-de/gitactionboard
+PortfolioFy,🔥 Dynamically Self Updating Portfolio GitHub Action,https://github.com/kaustubhgupta/PortfolioFy
+oryx-with-custom-qmk,Enhance your Oryx layout with advanced QMK features like Achordion, while retaining the ability to edit it via Oryx, then build it seamlessly with GitHub Actions,https://github.com/poulainpi/oryx-with-custom-qmk
+gh-get-current-pr,Github Action for getting all the details about the current Pull Request if the commit is part of one,https://github.com/8BitJonny/gh-get-current-pr
+flutter_bloc_app_template,📦 A robust template for building Flutter applications using the BLoC pattern, promoting a clear separation of concerns and enhancing maintainability. Ideal for developers looking to implement scalable state management solutions.,https://github.com/ashtanko/flutter_bloc_app_template
+github-actions-workflow-ts,Write Github Actions workflow files in TypeScript (compiles to YAML),https://github.com/emmanuelnk/github-actions-workflow-ts
+setup-ffmpeg,Set up your GitHub Actions workflow with ffmpeg,https://github.com/federicocarboni/setup-ffmpeg
+CppCMakeVcpkgTemplate,A template project to build a C++/CMake/vcpkg based projects with IDE and GitHub Actions. Build is sped up with caching of artifacts.,https://github.com/lukka/CppCMakeVcpkgTemplate
+actions,Collection of linters and fixers as Github Actions - Alpha,https://github.com/bltavares/actions
+jekyll-deploy-gh-pages,A GitHub Action for building a Jekyll site (with custom plugins) and deploying it back to your gh-pages branch.,https://github.com/BryanSchuetz/jekyll-deploy-gh-pages
+ExampleForSCF,腾讯云SCF（云函数）、Github Actions的python脚本，用于每天自动签到，一个是吾爱破解论坛的一个是哔哩哔哩的，作为我了解SCF的示例。,https://github.com/1gcat/ExampleForSCF
+pr-lint-action,:octocat: PR lint for GitHub Actions,https://github.com/seferov/pr-lint-action
+webapp-template,SvelteKit x Tailwind CSS x Supabase x Turborepo (pnpm),https://github.com/usagizmo/webapp-template
+infracost-gh-action,GitHub Action for Infracost. Shows cloud cost estimates for Terraform in pull requests.,https://github.com/infracost/infracost-gh-action
+newschool-backend,Plataforma de ensino para pessoas carentes,https://github.com/NewSchoolApp/newschool-backend
+pull-request-analytics-action,Provides informative reports on team and developer metrics, based on data from pull requests and code reviews,https://github.com/AlexSim93/pull-request-analytics-action
+pwnhub,How GitHub Actions workflows can be hacked,https://github.com/nikitastupin/pwnhub
+multi-stage-build-example,Example repository to accompany my talk at Velocity 2018,https://github.com/garethr/multi-stage-build-example
+release-notes-generator-action,Action to auto generate a release note based on your events,https://github.com/Decathlon/release-notes-generator-action
+aws-github-actions,Deploy 🚀 to AWS ☁️ with :octocat: GitHub Actions!,https://github.com/clowdhaus/aws-github-actions
+setup-chromedriver,ChromeDriver for use in GitHub Actions,https://github.com/nanasess/setup-chromedriver
+Git-steps,The series of steps you can use to commit a document in your GitHub from your local device, remotely.,https://github.com/MainakRepositor/Git-steps
+gh-workflow,Write your github workflows in rust,https://github.com/tailcallhq/gh-workflow
+public-ip,Queries GitHub actions runner's public IP address,https://github.com/haythem/public-ip
+action-rubocop,Run rubocop with reviewdog 🐶,https://github.com/reviewdog/action-rubocop
+fetch-api-data-action,🚚  GitHub action for handling authenticated API requests, allowing you to save the data from the request into your workspace as an environment variable and a .json file.,https://github.com/JamesIves/fetch-api-data-action
+coverage,GitHub Action for python coverage publish & analysis,https://github.com/orgoro/coverage
+pyaction,:octocat: Create GitHub Actions Using Python,https://github.com/lnxpy/pyaction
+mokkapps,My GitHub profile README which is automatically updated. Please ⭐️ if you like it,https://github.com/Mokkapps/mokkapps
+setup-task,GitHub Actions action to make Task available for use in your workflow,https://github.com/arduino/setup-task
+contributors,GitHub Action that given an organization or repository, produces information about the contributors over the specified time period.,https://github.com/github/contributors
+github-actions-dhall,Typecheck, template and modularize your Github Action definitions with Dhall,https://github.com/regadas/github-actions-dhall
+mean-docker,A full-stack boilerplate with Angular 19 (frontend), Express.js 4.17.1 (API), styled with Bootstrap 5 and MongoDB. Fully containerized with Docker for efficient development and deployment.,https://github.com/nitin27may/mean-docker
+DoubleGremlin181,Come play TicTacToe on my profile's README,https://github.com/DoubleGremlin181/DoubleGremlin181
+kubectl-grep,Filter Kubernetes resources by matching their names,https://github.com/guessi/kubectl-grep
+AndroidFastlaneCICD,📱A sample repository to demonstrate the Automate publishing🚀 app to the Google Play Store with GitHub Actions⚡+ Fastlane🏃.,https://github.com/PatilShreyas/AndroidFastlaneCICD
+SpotHub,:headphones: :relaxed: Collaborate on Spotify playlists using Pull Requests, powered by GitHub Actions,https://github.com/swinton/SpotHub
+setup-alpine,Easily use Alpine Linux on GitHub Actions, with support for QEMU user emulator,https://github.com/jirutka/setup-alpine
+debug-action,🛠 Show environment variables and event JSON in the Action logs,https://github.com/hmarr/debug-action
+maven-settings-action,This action setup maven settings.xml,https://github.com/s4u/maven-settings-action
+action-zip,A GitHub action used to zip file contents,https://github.com/montudor/action-zip
+semantic-release-action,The Original GitHub Action for running semantic-release. Sets output and environment variables for you to use in subsequent actions.,https://github.com/codfish/semantic-release-action
+universe2021,All things GitHub Universe 2021!,https://github.com/githubevents/universe2021
+github-profile-views-counter,🚀 Set up this GitHub profile views counter for your profile that does not require any services to record profile views,https://github.com/gayanvoice/github-profile-views-counter
+godot-admob-ios,Godot's AdMob Plugin for iOS with support for Mediations.,https://github.com/poingstudios/godot-admob-ios
+label-actions,🤖 GitHub Action that performs certain tasks when issues, pull requests or discussions are labeled or unlabeled,https://github.com/dessant/label-actions
+seed-quickstart-webpack,Template for web apps with Seed (Rust framework), TailwindCSS and Webpack.,https://github.com/seed-rs/seed-quickstart-webpack
+ftp-action,Automate copying your files via FTP using this GitHub action.,https://github.com/sebastianpopp/ftp-action
+NJU-health-report,用于在 GitHub Action 上部署南京大学每日健康填报自动打卡脚本,https://github.com/kottory/NJU-health-report
+command,IssueOps commands in GitHub Actions,https://github.com/github/command
+clang-format-action,GitHub Action for clang-format checking,https://github.com/jidicula/clang-format-action
+generate-plantuml-action,Generate uml diagrams with Plantuml Server and push them to your repository.,https://github.com/grassedge/generate-plantuml-action
+discord-action,GitHub Action that sends a Discord message.,https://github.com/appleboy/discord-action
+fastapi-clean-architecture,Clean FastAPI architecture,https://github.com/Flaiers/fastapi-clean-architecture
+ActionServerless,Use GitHub Actions to create a Serverless service.,https://github.com/gitfx/ActionServerless
+frizbee,Throw a tag at it and it comes back with a checksum.,https://github.com/stacklok/frizbee
+nissuer,A GitHub Action for tried and tired maintainers.,https://github.com/balazsorban44/nissuer
+helm-gh-pages,A GitHub Action for publishing Helm charts to Github Pages,https://github.com/stefanprodan/helm-gh-pages
+web-extension-boilerplate,The web extension boilerplate help to set up project quickly using typescript, jest, webpack, githook, prettier and github actions,https://github.com/davidnguyen11/web-extension-boilerplate
+dev-portfolio,DevOps Project:  AWS EKS, CI/CD, Docker, Kubernetes, Argo CD, Git, Terraform, Prometheus, Grafana, and more. Build a Dev Portfolio with this powerful tech stack.,https://github.com/Saurabhkr952/dev-portfolio
+googlejavaformat-action,GitHub Action that formats Java files following Google Style guidelines,https://github.com/axel-op/googlejavaformat-action
+sql-action,🚀 Deploy changes to your SQL database easily with SQL projects or SQL scripts and sql-action for GitHub workflows,https://github.com/Azure/sql-action
+setup-micromamba,GitHub Action to set up micromamba,https://github.com/mamba-org/setup-micromamba
+get-gke-credentials,A GitHub Action that configure authentication to a GKE cluster.,https://github.com/google-github-actions/get-gke-credentials
+doxygen-action,GitHub Action for generating Doxygen documentation for your projects.,https://github.com/mattnotmitt/doxygen-action
+jacoco-badge-generator,Coverage badges, and pull request coverage checks, from JaCoCo reports in GitHub Actions,https://github.com/cicirello/jacoco-badge-generator
+turborepo-nuxt-boilerplate,Nuxt.js 3 x Histoire x Vitest x VitePress x Turbo (pnpm),https://github.com/gurvancampion/turborepo-nuxt-boilerplate
+setup-emsdk,Setup Emscripten for use with GitHub actions,https://github.com/mymindstorm/setup-emsdk
+setup-nim-action,Set up your GitHub Actions workflow with a specific version of Nim,https://github.com/jiro4989/setup-nim-action
+nest-boilerplate,Nest.js boilerplate with CircleCI, Commitizen, Commitlint, Docker-Compose, ESLint, GitHub Actions, Husky, Lint-staged, OpenAPI, Prettier, PostGreSQL, TypeORM,https://github.com/smarlhens/nest-boilerplate
+react-native-camera-hooks,React Hooks and API wrapper for the react-native-camera module. GitHub Actions CI/CD + Automatic Release,https://github.com/reime005/react-native-camera-hooks
+nest-next-boilerplate,Boilerplate for Nest.js, Next.js, TypeScript stack. Includes social logins, account verification, password change & recover, real-time chats and more.,https://github.com/PoProstuWitold/nest-next-boilerplate
+grcov,📈 GitHub Action for code coverage reporting with grcov,https://github.com/actions-rs/grcov
+auto-author-assign,GitHub Actions: Automatically assign pull request authors.,https://github.com/toshimaru/auto-author-assign
+docker-cache,Cache Docker Images Whether Built or Pulled,https://github.com/ScribeMD/docker-cache
+github-client,React && Graphql powered github client,https://github.com/ani-team/github-client
+sapper-firebase-typescript-graphql-tailwindcss-actions-template,A template that includes Sapper for Svelte, Firebase functions and hosting, TypeScript and TypeGraphQL, Tailwind CSS, ESLint, and automatic building and deployment with GitHub Actions,https://github.com/babichjacob/sapper-firebase-typescript-graphql-tailwindcss-actions-template
+monorepo-split-github-action,Github Action for Monorepo Split,https://github.com/danharrin/monorepo-split-github-action
+terraform-aws-oidc-github,Terraform module to configure GitHub Actions as an OpenID Connect (OIDC) identity provider in AWS.,https://github.com/unfunco/terraform-aws-oidc-github
+static-export-template,A template to automatically convert Pluto notebooks to an HTML website with GitHub Pages. Demo page:,https://github.com/JuliaPluto/static-export-template
+imdb-trakt-sync,Automatic sync from IMDb to Trakt (watchlist, lists, ratings and history) using GitHub actions.,https://github.com/cecobask/imdb-trakt-sync
+redis-github-action,Use Redis in GitHub Actions,https://github.com/supercharge/redis-github-action
+setup-just,🤖 GitHub Action to install the just command runner,https://github.com/extractions/setup-just
+python-dev-tips,Minimal package to demonstrate good Python development habits,https://github.com/ebezzam/python-dev-tips
+action-phpcs-code-review,Github Action to perform automated code review on pull requests,https://github.com/rtCamp/action-phpcs-code-review
+set-timezone,GitHub action to set timezone in your locale, works with Linux, Windows, MacOS,https://github.com/szenius/set-timezone
+revert,A GitHub Action to automatically revert a commit on a '/revert' comment,https://github.com/srt32/revert
+issue-bot,GitHub Actions powered Issue Bot 🦾,https://github.com/imjohnbo/issue-bot
+github-action-wait-for-status,Github Action that waits for successful commit status,https://github.com/WyriHaximus/github-action-wait-for-status
+awesome-rust-actions,Curated list of awesome Actions for Rust programming language,https://github.com/actions-rs/awesome-rust-actions
+books,A demo project for Spring Boot / Data / security, social / oauth2 logons, JWT, Mongo, SpringBootAdmin, Docker, docker-compose, Github Actions and stateless apps,https://github.com/aidanwhiteley/books
+action-homebrew-bump-formula,:gear: A GitHub Action to easily bump Homebrew formula on new release,https://github.com/dawidd6/action-homebrew-bump-formula
+docs,🖨️ mdx static documentation generator,https://github.com/pmndrs/docs
+xcodebuild-action,A GitHub action that runs xcodebuild,https://github.com/sersoft-gmbh/xcodebuild-action
+poetries.github.io,博客，用于记录学习总结的地方。关注公众号「前端进阶之旅」，一起学习,https://github.com/poetries/poetries.github.io
+setup-minikube,official minikube github action, continuous integration test on Kubernetes cluster, test your code on a certified Kubernetes,https://github.com/medyagh/setup-minikube
+partner-runner-images,About GitHub Actions runner images provided by 3rd parties,https://github.com/actions/partner-runner-images
+typescript-api-starter,Node.js (🤖) Express.js / PostgreSQL API in TypeScript,https://github.com/cham11ng/typescript-api-starter
+esp8266button,An IoT Dash Like Button using an esp8266, a push button and GitHub Actions. Tested on an Adafruit Huzzah, SparkFun Thing, and Wemos D1 Mini ,https://github.com/garthvh/esp8266button
+devops-streamdeck,👀 Check the status of your CI/CD environments using your Stream Deck.,https://github.com/SantiMA10/devops-streamdeck
+commit-message-checker,GitHub Action that checks commit messages of pushes and pull request against a regex pattern,https://github.com/GsActions/commit-message-checker
+NotePad,Notepad is multi module Jetpack compose note taking app with sketch pad, voice recorder, image capturing app,https://github.com/mshdabiola/NotePad
+arm-none-eabi-gcc-action,GitHub Action to set-up the `arm-none-eabi-gcc` GNU Arm Embedded Toolchain.,https://github.com/carlosperate/arm-none-eabi-gcc-action
+CIAnalyzer,A tool collecting multi CI services build data and export it for creating self-hosting build dashboard.,https://github.com/Kesin11/CIAnalyzer
+scout-action,Docker Scout GitHub Action,https://github.com/docker/scout-action
+changelog-reader-action,A GitHub action to read and get data from the CHANGELOG.md file 🚀,https://github.com/mindsers/changelog-reader-action
+phpstan-ga,GithubAction for PHPStan,https://github.com/OskarStark/phpstan-ga
+cpp-linter-action,A Github Action for linting C/C++ code integrating clang-tidy and clang-format to collect feedback provided in the form of file-annotations, thread-comments, workflow step-summary, and Pull Request reviews.,https://github.com/cpp-linter/cpp-linter-action
+medium-manifests,This repo contains Kubernetes manifests for the below mentioned topics,https://github.com/pavan-kumar-99/medium-manifests
+rubocop-linter-action,Rubocop Linter Action: A GitHub Action to run Rubocop against your code!,https://github.com/andrewmcodes-archive/rubocop-linter-action
+github-actions-library,Collection of Github Actions useful for WordPress Deployments,https://github.com/rtCamp/github-actions-library
+wiki-page-creator-action,Create a GitHub wiki page based on the provided markdown file,https://github.com/Decathlon/wiki-page-creator-action
+gitlab-cypress,Sample project to experiment with Cypress to test the GitLab application.,https://github.com/wlsf82/gitlab-cypress
+appstore-status-bot,🚀  Share your application status with your team for slack. using github actions.,https://github.com/techinpark/appstore-status-bot
+setup-julia,This action sets up a Julia environment for use in actions by downloading a specified version of Julia and adding it to PATH.,https://github.com/julia-actions/setup-julia
+ms-teams-deploy-card,Microsoft Teams Deploy Card,https://github.com/toko-bifrost/ms-teams-deploy-card
+texlive-action,:octocat: GitHub Action to run arbitrary commands in a TeXLive environment,https://github.com/xu-cheng/texlive-action
+pinact,pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations.,https://github.com/suzuki-shunsuke/pinact
+start-here,You should open this repo first,https://github.com/github-craftwork/start-here
+read-action,📚 A GitHub action to track books you read in a JSON file (supports ISBN, Libby, Libro.fm, and Apple Books),https://github.com/library-pals/read-action
+commit-comment,A GitHub action to create a comment for a commit on GitHub,https://github.com/peter-evans/commit-comment
+github-actions-docker-layer-caching-poc,None,https://github.com/dtinth/github-actions-docker-layer-caching-poc
+aiogram-peewee-template,Telegram Bot API template, with aiogram, peewee and docker,https://github.com/netbriler/aiogram-peewee-template
+cargo-bloat-action,Track rust binary sizes across builds using Github Actions,https://github.com/orf/cargo-bloat-action
+m3_lightmeter,Lightmeter app inspired by Material 3 design system. ,https://github.com/vodemn/m3_lightmeter
+github-openvpn-connect-action,GitHub Action for connecting to OpenVPN server.,https://github.com/kota65535/github-openvpn-connect-action
+cimon-action,Runtime Security Solution for your CI/CD Pipeline,https://github.com/CycodeLabs/cimon-action
+mawesome,😎 Github action to generate your own awesome list from project you've starred ordered by languages!,https://github.com/simonecorsi/mawesome
+pull-request-labeler-action,:zap: Github action to label your pull requests auto-magically :sparkles:(using committed files),https://github.com/Decathlon/pull-request-labeler-action
+backendBankExample,Golang, Postgres, Docker, AWS backend master class translation (rus),https://github.com/MaksimDzhangirov/backendBankExample
+macige,Mobile App CI workflow GEnerator: Android, iOS, Flutter, and React Native!,https://github.com/tramlinehq/macige
+terraform-plan-comment,GitHub Action to post the output of "terraform plan" to a pull request comment.,https://github.com/borchero/terraform-plan-comment
+ghost,Ghost 👻 is an experimental CLI that uses AI to generate GitHub Actions workflows, using OpenAI,https://github.com/savannahostrowski/ghost
+android-ci-cd,DevOps CI/CD pipeline architecture for Android Apps 📲⚙️ (using GitHub Actions) - Unit Test, Instrumentation Test (espresso), Static Code Analysis (Sonarqube), Gradle Packaging, Signing bundle and automated deployment on Google Play Store,https://github.com/TharunBalaji2004/android-ci-cd
+Actions-OpenWrt-K2P,Use Github Actions to automatically compile Lean's Modified Lede source for K2P,https://github.com/DreamWalkerXZ/Actions-OpenWrt-K2P
+prow-github-actions,Slash commands, jobs, and chat-ops for Github actions inspired by Kubernetes Prow ⚓️,https://github.com/jpmcb/prow-github-actions
+ai-dev-2024-ml-workshop,Materials for the AI Dev 2024 conference workshop "Deploy and Monitor ML Pipelines with Python, Open Source, and Free Applications",https://github.com/RamiKrispin/ai-dev-2024-ml-workshop
+PipeScript,A Metaprogramming Language for PowerShell (and anything else),https://github.com/StartAutomating/PipeScript
+prathimacode-hub,Hello everyone, Welcome to my GitHub README profile. Glad to see you here! Check out this repository to view my work and learn more about me. Don't just star it, fork it as well.📢✌️,https://github.com/prathimacode-hub/prathimacode-hub
+github-actions-version-updater,A GitHub Action that Updates All GitHub Actions in a Repository and Creates a Pull Request with the Updates,https://github.com/saadmk11/github-actions-version-updater
+vite-ts-react-template,This project provides a basic dev setup intended for Single Page Application (SPA) development. It contains key tools, settings for seamless DX, and an demo app presenting good practices and used tooling in action.,https://github.com/bartstc/vite-ts-react-template
+turborepo-starter,A starter monorepo built with Turborepo, Nextjs, Docker, Rollup, Typescript, Storybook, Jest and Tailwind.,https://github.com/thmsmtylr/turborepo-starter
+ansible_galaxy_collection,Deploy a Collection to Ansible Galaxy.,https://github.com/artis3n/ansible_galaxy_collection
+py-template,One-click GitHub Actions pipelines for Python!,https://github.com/inovintell/py-template
+Restaurants-Compose,An example concept of MVVM and Kotlin. Display, Filter & Sort the given restaurants from assets with Jetpack Compose and AAC.,https://github.com/mbakgun/Restaurants-Compose
+laravel-pint-action,GitHub Action for Laravel Pint,https://github.com/aglipanci/laravel-pint-action
+pull-request-comment-branch,A GitHub Action to get the head ref and sha of a pull request comment,https://github.com/xt0rted/pull-request-comment-branch
+torrent-webseed-creator,Webseeded torrent creator using GitHub Actions,https://github.com/AnimMouse/torrent-webseed-creator
+action,📦📊 GitHub Action to reports on the size of your npm package ,https://github.com/pkg-size/action
+uestc-temperature,电子科技大学本科生健康打卡助手。,https://github.com/mrcaidev/uestc-temperature
+python-lint,GitHub Action for Lint your code,https://github.com/ricardochaves/python-lint
+action-python-poetry,Template repo to quickly make a tested and documented GitHub action in Python with Poetry,https://github.com/k2bd/action-python-poetry
+action-docs,Generate docs for GitHub actions,https://github.com/npalm/action-docs
+setup-poetry,Set up your GitHub Actions workflow with a specific version of Poetry,https://github.com/Gr1N/setup-poetry
+react-design-editor,Design editor including Graphic editor, Presentation editor, Video editor,https://github.com/angellikgh/react-design-editor
+k8s-set-context,GitHub Action for setting context and retrieving Kubeconfig before deploying to Kubernetes clusters,https://github.com/Azure/k8s-set-context
+action-surefire-report,Reports surefire test results as GitHub Pull Request Check,https://github.com/ScaCap/action-surefire-report
+action-bumpr,💥 Bump semantic version tag on merging Pull Requests with specific lables.,https://github.com/haya14busa/action-bumpr
+tarpaulin,📈 GitHub Action for code coverage reporting with tarpaulin ,https://github.com/actions-rs/tarpaulin
+github-actions-deploy-docker-to-ec2,GitHub Action to deploy any docker-composed app to an AWS EC2 VM.,https://github.com/bitovi/github-actions-deploy-docker-to-ec2
+jenkins-action,GitHub Action that trigger Jenkins job.,https://github.com/appleboy/jenkins-action
+blueskyfeedbot, A bot that posts RSS feeds to Bluesky via GitHub Actions ,https://github.com/joschi/blueskyfeedbot
+vsce-action,A GitHub Action to automate deploying VS Code extensions,https://github.com/lannonbr/vsce-action
+python-coverage-comment-action,Publish coverage report as PR comment, and create a coverage badge & dashboard to display on the Readme for Python projects, all inside GitHub without third party servers,https://github.com/py-cov-action/python-coverage-comment-action
+justin3go.com,A fully-featured, modern, and elegantly simple static blog based on VitePress; it mainly records ✍️ my blog and notes. 一款功能齐全的、现代化的、简洁优雅的静态博客，基于vitepress；主要记录✍️我的博客、笔记。,https://github.com/Justin3go/justin3go.com
+github-pages-blog-action,Create good looking blog from your markdown files in a GitHub repository,https://github.com/kamranahmedse/github-pages-blog-action
+actionate,GitHub Actions for JetBrains IDEs,https://github.com/revenate/actionate
+notion-github-action,A GitHub Action that syncs new GitHub issues to a Notion database 🤖,https://github.com/tryfabric/notion-github-action
+renoun, On-chain, non-transferrable badges for rewarding GitHub contributions. ,https://github.com/Jon-Becker/renoun
+actions-setup-perl,Setup Perl environment Action,https://github.com/shogo82148/actions-setup-perl
+django-security-check,Helps you continuously monitor and fix common security vulnerabilities in your Django application.,https://github.com/victoriadrake/django-security-check
+adapter-github-actions,:electric_plug: An adapter that takes a Probot app and makes it compatible with GitHub Actions,https://github.com/probot/adapter-github-actions
+gh-workflow-stats,A GitHub CLI extension to calculate the success rate and execution time of workflows and jobs.,https://github.com/fchimpan/gh-workflow-stats
+github-action-build-chain,None,https://github.com/kiegroup/github-action-build-chain
+gh-action-get-changed-files,GitHub Action that saves changed files as JSON for use by other actions.,https://github.com/lots0logs/gh-action-get-changed-files
+semver-release-action,GitHub Action to automatically create SemVer compliant releases based on PR labels.,https://github.com/K-Phoen/semver-release-action
+ghalint,GitHub Actions linter,https://github.com/suzuki-shunsuke/ghalint
+project-beta-automations,This automation provides the ability to automate issues and pull requests related to Github Projects (ProjectV2 / Beta).  If the issue or pull request is not attached to a project, it is automatically added to the project and its desired column. In addition to status automation, this automation also supports custom field management.,https://github.com/leonsteinhaeuser/project-beta-automations
+ssh2actions,Connect to GitHub Actions VM via SSH for interactive debugging,https://github.com/P3TERX/ssh2actions
+github-actions-templates,Reusable GitHub Actions workflow examples for cloud native DevOps,https://github.com/BretFisher/github-actions-templates
+eslint-changed-files,:octocat: Github action to run ESLint on changed pull request files with support for reporting errors via Github checks.,https://github.com/tj-actions/eslint-changed-files
+action-google-drive,[CAUTION] This repository is not actively maintained. / GitHub Action to interact with Google Drive,https://github.com/satackey/action-google-drive
+ALZ-PowerShell-Module,The Azure Landing Zones Accelerators PowerShell module,https://github.com/Azure/ALZ-PowerShell-Module
+user-statistician,Generate a GitHub stats SVG for your GitHub Profile README in GitHub Actions,https://github.com/cicirello/user-statistician
+gh-actions-lua,GitHub action for Lua/LuaJIT,https://github.com/leafo/gh-actions-lua
+deploy-via-surge.sh-github-action-template,A simple Github Actions template to deploy your static site using surge.sh,https://github.com/yavisht/deploy-via-surge.sh-github-action-template
+github-actions-gnome-extension,Tool to Show Github Actions status on Gnome Desktop.,https://github.com/arononak/github-actions-gnome-extension
+conventional-pr-title-action,Ensure your PR title matches the Conventional Commits spec.,https://github.com/aslafy-z/conventional-pr-title-action
+vue-workflow-chart,Create Workflow-Charts with Vue.js,https://github.com/vue-workflow-chart/vue-workflow-chart
+testing-serverless-apps,Code samples of how to make unit and e2e tests in serverless applications,https://github.com/ErickWendel/testing-serverless-apps
+azure-data-labs-modules,A list of Terraform modules to build your Azure Data IaC templates.,https://github.com/Azure/azure-data-labs-modules
+hackernews-button,Privacy-preserving Firefox extension linking to Hacker News discussion; built with Bloom filters and WebAssembly,https://github.com/jstrieb/hackernews-button
+example-github-cicd,『GitHub CI/CD実践ガイド』サンプルコード,https://github.com/tmknom/example-github-cicd
+Actions-WoZaiXiaoYuanPuncher,我在校园自动打卡程序：WoZaiXiaoYuanPuncher 的 Github Action 版。,https://github.com/jimlee2048/Actions-WoZaiXiaoYuanPuncher
+notion-github-issue-sync,Github Actions를 사용해 Github issue와 Notion 데이터베이스를 동기화하여 Notion에서 팀원들과 진행상황을 쉽게 공유해보세요🥳,https://github.com/noah0316/notion-github-issue-sync
+Epoch,⏱ A simple stop watch app built to demonstrate the use of Jetpack Compose ,https://github.com/Spikeysanju/Epoch
+Next.js-and-GitHub-Pages-Example,The bare minimum to get a Next.js website deployed in GitHub Pages,https://github.com/DaveAldon/Next.js-and-GitHub-Pages-Example
+issue-states,:warning: PARTIALLY BROKEN - GitHub Action that closes or reopens issues when they are moved to a project column,https://github.com/dessant/issue-states
+jacoco-reporter,GitHub Action to Publish JaCoCo Format Code Coverage XML and attach it to the Workflow Run as a Check Run. Also can enforce Coverage Quality Gate.,https://github.com/PavanMudigonda/jacoco-reporter
+pin-github-action,Pin your GitHub actions to a specific hash,https://github.com/mheap/pin-github-action
+xrkffgg,🎉 A quote a day, welcome PR to add your quotations.,https://github.com/xrkffgg/xrkffgg
+playwright-java-test-automation-architecture,Ready-to-use UI Test Automation Architecture using Java and Playwright.,https://github.com/Tahanima/playwright-java-test-automation-architecture
+swift-package-dependencies-check,Catch up with outdated versions based on your package dependency requirements,https://github.com/MarcoEidinger/swift-package-dependencies-check
+actions-label-commenter,Label Commenter Action: Label triggered GitHub Action for posting a template comment, and automatically open/close/lock/unlock issues, pull-requests, and discussions.,https://github.com/peaceiris/actions-label-commenter
+Profile-Readme-WakaTime,Generate coding activity graph tracked by WakaTime to embed in Readme(s) and webpages.,https://github.com/avinal/Profile-Readme-WakaTime
+vidyabhandary,Self updating profile readme for github,https://github.com/vidyabhandary/vidyabhandary
+playwright-ts,Playwright TypeScript Framework: a robust solution for testing Web (Desktop & Mobile), API, and Electron apps. With customized utilities, linting, logging, webhooks, and GitHub actions, it offers a stable and robust layer that enhances Playwright's capabilities. Stay tuned for updates, and star if valuable!,https://github.com/vasu31dev/playwright-ts
+ci-cd-intro,Intro to CI/CD 💻 ☁️,https://github.com/Link-/ci-cd-intro
+pages,Github Actions for publishing Sphinx HTML output to github pages,https://github.com/sphinx-notes/pages
+action-ktlint,Run Ktlint with reviewdog,https://github.com/ScaCap/action-ktlint
+github-contribution-graph-action,🙈 This GitHub action will automatically push empty commits to one of your repositories.,https://github.com/bcanseco/github-contribution-graph-action
+devb.io,DevB.io seamlessly transforms your GitHub footprint into a living, breathing portfolio. Powered by AI, it tells your developer story while you focus on what matters most: writing great code. No more portfolio maintenance headaches, just pure coding brilliance on display.,https://github.com/sunithvs/devb.io
+action-contributors,GitHub Action to dynamically update CONTRIBUTORS file,https://github.com/minicli/action-contributors
+labeler,Label manager for PRs and Issues based on configurable conditions,https://github.com/srvaroa/labeler
+nfa-to-dfa,a visual NFA to DFA converter,https://github.com/joeylemon/nfa-to-dfa
+auto-generate-changelog,A Github Action to generate CHANGELOG automatically according to conventional commits. Feel free to contribute!,https://github.com/BobAnkh/auto-generate-changelog
+actions--access-token,Get rid of PAT tokens, use temporary access tokens instead!,https://github.com/qoomon/actions--access-token
+rgraph,Backend with superpowers.  Supercharge your web applications with Authentication, Database, GraphQL and serverless functions right from day zero.,https://github.com/RocketsGraphQL/rgraph
+install-octopus-cli-action,| Public |  :octocat: GitHub Action to Install the Octopus CLI,https://github.com/OctopusDeploy/install-octopus-cli-action
+github-wiki-publish-action,GitHub Action that publishes the contents of a directory to your project's wiki,https://github.com/SwiftDocOrg/github-wiki-publish-action
+badge-action,Create a badge using GitHub Actions and GitHub Workflow CPU time (no 3rd parties servers),https://github.com/emibcn/badge-action
+action-setup-kube-tools,Github Action that setup Kubernetes tools (kubectl, kustomize, helm, kubeconform, conftest, yq, rancher, tilt, skaffold) very fast and cache them on the runner. Please [✩Star] if you're using it!,https://github.com/yokawasa/action-setup-kube-tools
+bullfrog,Simple plug-and-play Github Action to block unauthorized outbound traffic (egress) in your Github workflows,https://github.com/bullfrogsec/bullfrog
+laravel-forge-action,Deploy your application to Laravel Forge with GitHub Actions.,https://github.com/jbrooksuk/laravel-forge-action
+action-lgtm-reaction,GitHub Action to send LGTM reaction,https://github.com/micnncim/action-lgtm-reaction
+jhipster7-demo,JHipster 7 Demo! 🔥,https://github.com/mraible/jhipster7-demo
+github-actions-slack,Github Action for sending message (and reactions/threads/update/blocks) to Slack - With support for Slack's optional arguments,https://github.com/archive/github-actions-slack
+github-action-utils,Collection of python functions that can be used to run GitHub Action Workflow Commands ,https://github.com/saadmk11/github-action-utils
+pull-request-name-linter-action,⚡️ Lint pull request name with commit lint. This is useful if you squash merge your pull requests ⚡️,https://github.com/JulienKode/pull-request-name-linter-action
+actions-upload-release-asset,Yet Another Upload Release Asset Action,https://github.com/shogo82148/actions-upload-release-asset
+actions,Set of actions for implementing CI/CD with werf and GitHub Actions ,https://github.com/werf/actions
+github-pages-docusaurus,A Docusaurus website deployed to GitHub Pages using GitHub Actions.,https://github.com/LayZeeDK/github-pages-docusaurus
+snowpack-template-tailwind,Snowpack template featuring Tailwind, Prettier and auto publish with GitHub Actions ,https://github.com/jonalvarezz/snowpack-template-tailwind
+release-github-actions,GitHub Actions to automate the release of GitHub Actions,https://github.com/technote-space/release-github-actions
+github-self-hosted-runners,Guideline of best practices to follow to configure Github Enterprise Cloud self-hosted runners in a secure way.,https://github.com/dduzgun-security/github-self-hosted-runners
+setup-mingw,GitHub action to set up MinGW-w64,https://github.com/egor-tensin/setup-mingw
+github-to-aws,Set up GitHub Actions to deploy to AWS,https://github.com/mnapoli/github-to-aws
+tracee-action,Protect GitHub Actions with Tracee,https://github.com/aquasecurity/tracee-action
+assign-author,GitHub Actions to assign author to issue or PR,https://github.com/technote-space/assign-author
+gradle-dependency-submission,Calculates dependencies for a Gradle build-target and submits the list to the Dependency Submission API,https://github.com/mikepenz/gradle-dependency-submission
+microsoft-teams-actions,This is a GitHub Actions that sends a message to a given channel in Microsoft Teams,https://github.com/aliencube/microsoft-teams-actions
+action-create-tag,Simple GitHub action that can be used to create a tag inside a GitHub action.,https://github.com/rickstaa/action-create-tag
+create-release-action,| Public |  :octocat: GitHub Action to Create a Release in Octopus Deploy,https://github.com/OctopusDeploy/create-release-action
+cross-platform-python-gui,A fork-ready base for your new GUI application. Uses CI to automatically build executables for Linux (AppImage), Windows (exe), and MacOS (dmg),https://github.com/maltfield/cross-platform-python-gui
+rworkflows,Continuous integration for R packages. 🔀 Automates testing ✅, documentation website building 📦, & containerised deployment 🐳. ,https://github.com/neurogenomics/rworkflows
+pydata-ny-ga-workshop,Materials for the Deploy and Monitor ML Pipelines with Python, Docker and GitHub Actions workshop at the PyData NYC 2024 conference,https://github.com/RamiKrispin/pydata-ny-ga-workshop
+generate-sitemap,Generate an XML sitemap for a GitHub Pages site using GitHub Actions,https://github.com/cicirello/generate-sitemap
+lapras-card-readme,LAPRASの現在のスコアをSVG画像のカードとして、GitHub Profileに埋め込むGitHub Actions,https://github.com/kawamataryo/lapras-card-readme
+action-install-gh-release,GitHub Action to install the Github Release binaries,https://github.com/jaxxstorm/action-install-gh-release
+private-actions-checkout,GitHub Action to make custom private actions easily available to any workflow,https://github.com/daspn/private-actions-checkout
+vue3-md-blog,✍️ Minimal config Vue3 + Markdown + Bootstrap blog engine,https://github.com/yeikiu/vue3-md-blog
+go-coverage-report,GitHub Action to add a coverage badge to your Go repo,https://github.com/ncruces/go-coverage-report
+deta-deploy-action,Simple GitHub Action to deploy current repo to a Deta Micro,https://github.com/bogdaaamn/deta-deploy-action
+action-autotag,Automatically generate a new tag when the manifest file (package.json, Dockerfile, custom file, etc) version changes.,https://github.com/ButlerLogic/action-autotag
+yamlizr,Azure DevOps Designer-to-YAML Pipeline CLI CodeGen Tool w/GitHub Actions Generation,https://github.com/f2calv/yamlizr
+dokku-github-action,Deploy applications to Dokku,https://github.com/vitalyliber/dokku-github-action
+action-branch-name,Github action to enforce naming convention on branch names,https://github.com/deepakputhraya/action-branch-name
+jsdoc-action,:book: :octocat:GitHub Action to build JSDoc documentation,https://github.com/andstor/jsdoc-action
+serverless-nextjs-github-ci-cd,How to use Github actions to manage the CI/CD flow of a serverless-nextjs project.,https://github.com/bhall2001/serverless-nextjs-github-ci-cd
+action-cats,A quick Github action which posts a cat gif on your PRs to reward you for pushing code!,https://github.com/ruairidhwm/action-cats
+jimsghstars,A curated application for browsing my GitHub stars! ⭐,https://github.com/jimbrig/jimsghstars
+VuePagesAction,This Action will Build your Vue Project and deploy it to Github Pages,https://github.com/xRealNeon/VuePagesAction
+angular-forum,Forum application built with Angular,https://github.com/hamzahamidi/angular-forum
+github-sponsors-readme-action,❤️ This GitHub Action will automatically add your GitHub Sponsors to your README. It can be configured in multiple ways allowing you to display and breakdown your sponsors by price tier with fallbacks.,https://github.com/JamesIves/github-sponsors-readme-action
+create-gh-release-action,GitHub Action for creating GitHub Releases based on changelog.,https://github.com/taiki-e/create-gh-release-action
+elisp-check,A GitHub Action for Emacs Lisp CI,https://github.com/leotaku/elisp-check
+zulip-archive,Generate a static HTML archive of messages in any combination of streams in a Zulip organization.,https://github.com/zulip/zulip-archive
+action-pull-request,GitHub Action that will create a pull request from the current branch,https://github.com/devops-infra/action-pull-request
+tdd-nodejs,Course project of Test Driven Development with Node js,https://github.com/basarbk/tdd-nodejs
+templates,Collection of Conan recipe + CI templates,https://github.com/bincrafters/templates
+setup-arduino-cli,GitHub Action to setup Arduino CLI,https://github.com/arduino/setup-arduino-cli
+backlog-notify,GitHub 上のプッシュとプルリクエストを Backlog 課題に連携する GitHub Action です。,https://github.com/bicstone/backlog-notify
+ci-configuration-examples,This repository makes it easy to run your MATLAB tests on some of the most common CI platforms. The configuration files take care of setting up MATLAB and automatically executing your MATLAB tests.,https://github.com/mathworks/ci-configuration-examples
+nrf-docker,Dockerfile example for building nRF Connect SDK applications with GitHub Actions,https://github.com/NordicPlayground/nrf-docker
+expo-preview-action,With this preview action, you can test changes made in pull requests via Expo Go or custom development client (created with expo-dev-client) just by scanning QR code.,https://github.com/expo/expo-preview-action
+ghaction-chocolatey,GitHub Action for Chocolatey, the package manager for Windows,https://github.com/crazy-max/ghaction-chocolatey
+OpenWrt-K,基于OpenWrt官方源码的GitHub Actions云编译 | GitHub Actions cloud compilation based on OpenWrt official source code ,https://github.com/chenmozhijin/OpenWrt-K
+molecule-playbook-testing,This is an example from the Ansible 101 livestream,https://github.com/geerlingguy/molecule-playbook-testing
+github-labeler,Declarative way to configure GitHub labels,https://github.com/babarot/github-labeler
+download-provisioning-profiles,Github Action for downloading provisioning profiles from Apple AppStore Connect,https://github.com/Apple-Actions/download-provisioning-profiles
+AliyunGradleConfig,自用的安卓开源项目工程模板。阿里云远程仓库加速，发布到maven仓库，代码混淆、资源混淆，持续集成(CI)，多渠道多环境打包。在天朝使用jcenter、mavenCentral及google三个远程仓库，Gradle Sync太慢？一招教你配置阿里云镜像源。init.d/init.gradle,https://github.com/gzu-liyujiang/AliyunGradleConfig
+terraform-aws-github-oidc,Terraform module to  setup OIDC with AWS and GH Actions ,https://github.com/philips-labs/terraform-aws-github-oidc
+github_actions_exporter,GitHub Action Exporter,https://github.com/cpanato/github_actions_exporter
+android-ci-cd,This boilerplate demonstrates how to easily prepare a CI/CD for an android application based on Fastlane, github actions or gitlab CI/CD.,https://github.com/maddevsio/android-ci-cd
+nodejs-postgresql-azure,Repositório responsável pela série de artigos sobre Node.js com PostgreSQL,https://github.com/glaucia86/nodejs-postgresql-azure
+coverage-badge-go,:octocat: Generate coverage badge for go modules,https://github.com/tj-actions/coverage-badge-go
+bridgecrew-action,This GitHub Action runs Bridgecrew against infrastructure-as-code, open source packages, container images, and CI/CD configurations to identify misconfigurations, vulnerabilities, and license compliance issues.,https://github.com/bridgecrewio/bridgecrew-action
+becomeansible,Start as a beginner, leave production ready. Begin with running ad-hoc Ansible commands and end deploying Ansible with GitHub Actions.,https://github.com/duffney/becomeansible
+compile-sketches,GitHub Actions action that checks whether Arduino sketches compile and produces a report of data from the compilations,https://github.com/arduino/compile-sketches
+vacation-mode-action,Limit interactions to your repository while on vacation using GitHub Actions,https://github.com/robotnyc/vacation-mode-action
+ok-to-test,Example workflow configuration showing how to use GitHub Actions secrets in pull requests from forks 🍴🔑,https://github.com/imjohnbo/ok-to-test
+github-wiki-action,📖 GitHub Action to sync a folder to the GitHub wiki,https://github.com/Andrew-Chen-Wang/github-wiki-action
+kiran1689,Dynamic readme profile template. Do not just fork, Give Star too :),https://github.com/Kiran1689/kiran1689
+create-node-app,Powerful tool to scaffold your application choosing between different templates and extensions for Web apps, Web Extensions, Monorepos, and more!,https://github.com/Create-Node-App/create-node-app
+semgrep-action,This project is deprecated. Use https://github.com/returntocorp/semgrep instead,https://github.com/semgrep/semgrep-action
+aseprite_builder,Builds aseprite using GitHub actions,https://github.com/ellisonoswalt/aseprite_builder
+gh-action-pip-audit,A GitHub Action for pip-audit,https://github.com/pypa/gh-action-pip-audit
+FoliaToGo,🥡🤖 Nightly builds of the Folia server jar, ready-to-use, right here,https://github.com/Slackadays/FoliaToGo
+maven-settings-xml-action,Github Action to create maven settings (~/.m2/settings.xml),https://github.com/whelk-io/maven-settings-xml-action
+ms-teams-notification,GitHub Action to send a Microsoft Teams notification,https://github.com/jdcargile/ms-teams-notification
+git-actions,A GitHub Action to run arbitrary git commands,https://github.com/srt32/git-actions
+github-readme-info,✨ This GitHub action helps to add cool Stats to your GitHub profile README.,https://github.com/th3c0d3br34ker/github-readme-info
+DemoApp,An Android template project for fast development and test.,https://github.com/Goooler/DemoApp
+action-ssh,GitHub Action for executing SSH commands on remote servers,https://github.com/JimCronqvist/action-ssh
+github-action-psscriptanalyzer,GitHub Action to run PSScriptAnalyzer static code analysis,https://github.com/devblackops/github-action-psscriptanalyzer
+actions-toolkit,Toolkit for Docker (GitHub) Actions,https://github.com/docker/actions-toolkit
+swift-log-github-actions,GitHub Actions workflow logging for Swift,https://github.com/NSHipster/swift-log-github-actions
+rspec-github,Formatter for RSpec to show errors in GitHub action annotations,https://github.com/Drieam/rspec-github
+phpunit-github-actions-printer,None,https://github.com/mheap/phpunit-github-actions-printer
+branch-protection-bot,A bot tool to disable and re-enable "Include administrators" option in branch protection,https://github.com/benjefferies/branch-protection-bot
+push-to-gcr-github-action,An action that build docker image and push to Google Cloud Registry and Google Artifact Registry.,https://github.com/RafikFarhad/push-to-gcr-github-action
+markdown-to-html-cli,Command line tool that converts markdown to HTML.,https://github.com/jaywcjlove/markdown-to-html-cli
+anonymization-api,How to build and deploy an anonymization API with FastAPI and SpaCy,https://github.com/ahmedbesbes/anonymization-api
+discord-webhook-notify,Sends a notification to discord using a webhook URL. It is written in JavaScript so it will work with windows, osx, and linux execution environments.,https://github.com/rjstone/discord-webhook-notify
+setup-kustomize,None,https://github.com/imranismail/setup-kustomize
+example-workflows,Repository to demonstrate example workflows.,https://github.com/google-github-actions/example-workflows
+ChatGPT-Reviewer,Automated pull requests reviewing and issues triaging with ChatGPT.,https://github.com/feiskyer/ChatGPT-Reviewer
+ctf-collab,Collaborative programming environment inside GitHub Actions – like Google Docs for hacking,https://github.com/jstrieb/ctf-collab
+chatgpt-code-review-action,A GitHub Action that uses OpenAI ChatGPT to do code review,https://github.com/adshao/chatgpt-code-review-action
+deploy-firebase,A GitHub Action to deploy to Firebase Hosting,https://github.com/lowply/deploy-firebase
+cfn-lint-action,GitHub Action for interacting with CloudFormation Linter,https://github.com/ScottBrenner/cfn-lint-action
+install-crystal,GitHub Action: Install Crystal programming language,https://github.com/crystal-lang/install-crystal
+Azure-Databricks-Dev-Ops,Complete end to end sample of doing DevOps with Azure Databricks,https://github.com/AdamPaternostro/Azure-Databricks-Dev-Ops
+datadog-actions-metrics,Send GitHub Actions metrics to Datadog for developer experience,https://github.com/int128/datadog-actions-metrics
+flake8,A GitHub Action that installs and executes flake8 Python source linting during continuous integration testing.  Supports flake8 configuration and plugin installation in the GitHub Action settings.,https://github.com/py-actions/flake8
+ghaction-xgo,GitHub Action for xgo, a Golang CGO cross compiler,https://github.com/crazy-max/ghaction-xgo
+sharp-layer,npm sharp for AWS Lambda layers, separated builds for arm64 and x64, minified and bundled with esbuild,https://github.com/pH200/sharp-layer
+bookshelf-action,📚 Track your reading using GitHub Actions,https://github.com/AnandChowdhary/bookshelf-action
+httpie.action,:zap: Human-friendly interactions with third-party web services through GitHub Actions,https://github.com/swinton/httpie.action
+Playwright-Python-Example,Playwright Python example project with pytest and Allure report,https://github.com/nirtal85/Playwright-Python-Example
+semver-action,GitHub Action to calculate the next release version based on conventional commits,https://github.com/ietf-tools/semver-action
+huggingface-sync-action,GitHub action that'll sync files from a GitHub Repo with the Hugging Face Hub 🤗,https://github.com/nateraw/huggingface-sync-action
+AndroidLibraryForGitHubPackagesDemo,Sample project showcasing the steps to publish and consume Android Libraries on the GitHub Packages Registry,https://github.com/enefce/AndroidLibraryForGitHubPackagesDemo
+dummy,Trash for the trash god 🗑️,https://github.com/LindseyB/dummy
+cproject,Example for a C environment with CMake, Docker, Unity, and GitHub Actions.,https://github.com/lmapii/cproject
+action-sqlfluff,Run sqlfluff with reviewdog to check or format styles,https://github.com/yu-iskw/action-sqlfluff
+aws-secrets-manager-action,Use secrets from AWS Secrets Manager as environment variables in your GitHub Actions workflow,https://github.com/abhilash1in/aws-secrets-manager-action
+github-release,Github Action to create, update, or add files to Github Releases,https://github.com/meeDamian/github-release
+reusable-workflows,Make a workflow reusable, call it in another workflow, and use a matrix strategy to run multiple versions.,https://github.com/skills/reusable-workflows
+action-commit-push,GitHub Action that will create a new commit and push it to the repository,https://github.com/devops-infra/action-commit-push
+github-actions-report-lcov,A Github Action to report the code coverage from LCOV files,https://github.com/zgosalvez/github-actions-report-lcov
+actions-file-deployer,Composite GitHub Action (Linux runner) for deploying repository content to remote server. Fast and customizable deployment with proxy support. Deploy only changed files or do full sync/mirror of repository content.,https://github.com/milanmk/actions-file-deployer
+github-graphql-action,An action which executes graphql queries,https://github.com/helaili/github-graphql-action
+install-boost,Install boost on Github actions,https://github.com/MarkusJx/install-boost
+CodeWhisper,CodeWhisper: AI-Powered End-to-End Task Implementation & blazingly fast Codebase-to-LLM Context Bridge,https://github.com/gmickel/CodeWhisper
+spring-react-tr-course,Course project of Spring ve React ile Web Uygulamasi Gelistirme,https://github.com/basarbk/spring-react-tr-course
+ai-reviewer,Context-aware AI reviewer for Pull Requests. Instant summary, line-by-line comments, title generation and more,https://github.com/presubmit/ai-reviewer
+DMS-Android,This is Dormitory Management System Android Repository,https://github.com/team-aliens/DMS-Android
+actions-package-update, keeps npm dependencies up-to-date by making pull requests from GitHub Actions or CI.,https://github.com/taichi/actions-package-update
+slash-command-action,A GitHub Action to check comments for slash commands,https://github.com/xt0rted/slash-command-action
+dart-package-publisher,Action to Publish Dart / Flutter Package To https://pub.dev When you need to publish a package, just bump the version in pubspec.yaml,https://github.com/k-paxian/dart-package-publisher
+gid,Help project managers and project owners with easy-to-understand views of github issue dependencies.,https://github.com/k-nasa/gid
+bump-everywhere,      🚀 Automate versioning, changelog creation, README updates and GitHub releases using GitHub Actions,npm, docker or bash.,https://github.com/undergroundwires/bump-everywhere
+facebook-action,GitHub Action that sends a Facebook message.,https://github.com/appleboy/facebook-action
+github-sync,This action helps you to sync your PRs with tasks in Teamwork to streamline team collaboration and your development workflows.,https://github.com/Teamwork/github-sync
+asciidoctor-ghpages-action,📄⚙️ GitHub Action to build AsciiDoc GitHub Pages: recursively converts every adoc file to html, renaming resulting README.html to index.html. It also enables generating an ebook.pdf or AsciiDoctor Reveal.js slides,https://github.com/manoelcampos/asciidoctor-ghpages-action
+shell-linter,A Github Action for ShellCheck,https://github.com/Azbagheri/shell-linter
+tf-ecr-ecs-gh-deploy,Example repository to build OCI, publish to ECR and deploy to ECS fargate, setup using terraform.,https://github.com/tbobm/tf-ecr-ecs-gh-deploy
+action-github-workflow-sync,Github Action To Sync Github Action's Workflow Files Across Repositories,https://github.com/varunsridharan/action-github-workflow-sync
+EKS-Terraform-GitHub-Actions,Configuring Production-Ready EKS Clusters with Terraform and GitHub Actions,https://github.com/AmanPathak-DevOps/EKS-Terraform-GitHub-Actions
+actions-NjuHealthReport,Github Actions: 完成每日健康填报打卡，So easy,https://github.com/zhangt2333/actions-NjuHealthReport
+setup-maven-action,Complete environment configuration for Maven builds,https://github.com/s4u/setup-maven-action
+action-release-debugapk,🕷 Build and release debug APK from your Android project,https://github.com/ShaunLWM/action-release-debugapk
+.github,Automate your workflows with GitHub actions for MATLAB.,https://github.com/matlab-actions/.github
+pr-lint-action,:octocat:  A fast 🔥 TypeScript GitHub Action to ensure that your PR title matches a given regex.,https://github.com/MorrisonCole/pr-lint-action
+extract-release-notes,A GitHub Action to extract release notes from a "Keep a Changelog" formatted changelog file,https://github.com/ffurrer2/extract-release-notes
+wait-action,💤 Very, very simple (and small) action to sleep for an amount of time — 10s, 2m, etc.,https://github.com/jakejarvis/wait-action
+opentelemetry-bash,None,https://github.com/plengauer/opentelemetry-bash
+issue-manager,Automatically close issues that have a label, after a custom delay, if no one replies back.,https://github.com/tiangolo/issue-manager
+setup-biome,Setup the Biome CLI in GitHub Actions,https://github.com/biomejs/setup-biome
+good-defaults,A CLI tool to generate good defaults for your project,https://github.com/juliusmarminge/good-defaults
+mylib,Шаблон кросплатформенного CMake-проекта для языка C++ 🇬🇧 Modern CMake crossplatform project template for C++,https://github.com/izvolov/mylib
+criterion-compare-action,⚡️📊 Compare the performance of Rust project branches,https://github.com/boa-dev/criterion-compare-action
+resource-translator,A GitHub Action that automatically creates machine-translated PRs of translation files. Supported file formats include, .ini, .po, .restext, .resx, .xliff .json.,https://github.com/IEvangelist/resource-translator
+debug-via-ssh,Here you can find a GitHub Action that allows you to connect to a GitHub Actions runner via SSH for interactive debugging using ngrok.,https://github.com/luchihoratiu/debug-via-ssh
+code-coverage-action,GitHub Action that generates code coverage reports,https://github.com/barecheck/code-coverage-action
+hugo-action,Commands to help with building Hugo based static sites,https://github.com/srt32/hugo-action
+ghaction-github-runtime,GitHub Action to expose GitHub runtime to the workflow,https://github.com/crazy-max/ghaction-github-runtime
+gitlab-ci-action,GitHub Action that trigger gitlab CI build.,https://github.com/appleboy/gitlab-ci-action
+update-github-actions-permissions,A CLI that update GitHub Actions's `permissions` automatically,https://github.com/pkgdeps/update-github-actions-permissions
+setup-clang,GitHub action to set up Clang & LLVM,https://github.com/egor-tensin/setup-clang
+setup-conda,This action adds the `conda` command from the on the worker preinstalled miniconda version to the known shell commands.,https://github.com/s-weigand/setup-conda
+setup-wireguard,GitHub action to set up WireGuard,https://github.com/egor-tensin/setup-wireguard
+dotnet-github-actions-sdk,The unofficial GitHub ToolKit for developing GitHub Actions with .NET.,https://github.com/IEvangelist/dotnet-github-actions-sdk
+apple-autofill-domains,Apple's allowed autofill domains,https://github.com/b0o/apple-autofill-domains
+ghaction-container-scan,GitHub Action to check for vulnerabilities in your container image,https://github.com/crazy-max/ghaction-container-scan
+setup-graalvm,None,https://github.com/DeLaGuardo/setup-graalvm
+CloudNative,CloudNative Microservices, Container, Orchestators, Service Mesh, CI/CD, IaC, GitOps, Monitoring. Learn, explore, design and develop +20 Hands-on real-world project on Kubernetes clusters.,https://github.com/mehmetozkaya/CloudNative
+kubernoodles,k8s runners for GitHub Actions in the enterprise, made for humans,https://github.com/some-natalie/kubernoodles
+action-s3-cache,Github action to cache dependencies and build outputs to s3 bucket,https://github.com/leroy-merlin-br/action-s3-cache
+helm-eks-action,The simplest Github Action for  executing Helm commands on EKS - cluster authentication included,https://github.com/koslib/helm-eks-action
+deployment-marker-action,Github Action for recording a Deployment Marker in New Relic,https://github.com/newrelic/deployment-marker-action
+actions,Our Library of GitHub Actions,https://github.com/cloudposse/actions
+link-snitch,:octocat: GitHub Action to scan your site for broken links so you can fix them 🔗,https://github.com/victoriadrake/link-snitch
+release-with-changelog,Creates GitHub releases for pushed tags, with the commit log as release body,https://github.com/fregante/release-with-changelog
+tag-changelog,Automatically generate a changelog since the last tag, using the conventional commit format,https://github.com/loopwerk/tag-changelog
+thevalidatoR,Github Action that generates R Package Validation documentation 🏁,https://github.com/insightsengineering/thevalidatoR
+the-superawesome-frontend-boilerplate,My Vue frontend starter with tests, CI/CD - everything dockerized, don't even need nodejs locally! Also with a styleguide for large-scale frontend projects,https://github.com/the-illarionov/the-superawesome-frontend-boilerplate
+terraform-plan,GitHub Action to run Terraform plan and add a comment with the changes.,https://github.com/cds-snc/terraform-plan
+PythonProjectTemplate,Python project template with unit-tests, documentation, ci-testing and workflows.,https://github.com/franneck94/PythonProjectTemplate
+sbt-dependency-submission,A Github Action to submit the dependency graph of an sbt build to the Dependency Submission API,https://github.com/scalacenter/sbt-dependency-submission
+goreleaser-pro,Release engineering, simplified,https://github.com/goreleaser/goreleaser-pro
+mock-github,A library to create a local github environment and easily mock github APIs using an octokit like interface,https://github.com/kiegroup/mock-github
+full-stack-open-2022,Deep Dive Into Modern Web Development,https://github.com/cassianocaron/full-stack-open-2022
+coverage-badge-py,:octocat: Github action to generate coverage badge without uploading results to a 3rd party.,https://github.com/tj-actions/coverage-badge-py
+kover-report,Github action that publishes the Kover code coverage report as a comment in pull requests,https://github.com/mi-kas/kover-report
+ghactions-manager,A plugin to manage GitHub actions from JetBrains IDEs (intellij, pycharm, etc.),https://github.com/dsoftwareinc/ghactions-manager
+Trackerslist,Combine muti-source trackerlist and detect the domain whether is alive,https://github.com/hezhijie0327/Trackerslist
+chrome-addon,☁ GitHub action to upload addon to Chrome,https://github.com/trmcnvn/chrome-addon
+docker-apache-php-symfony,Docker environment required to run Symfony (based on official php and mysql docker hub repositories),https://github.com/systemsdk/docker-apache-php-symfony
+issue-action,github action for github issue,https://github.com/Naturalclar/issue-action
+codacy-analysis-cli-action,GitHub Action for the codacy-analysis-cli,https://github.com/codacy/codacy-analysis-cli-action
+github-action-ghr,GitHub Action to upload build artifacts to GitHub releases.,https://github.com/fnkr/github-action-ghr
+github-actions-course,Samples for Github Actions DevOps pipelines and workflows,https://github.com/HoussemDellai/github-actions-course
+ekiden,GitHub Actions self-hosted arm64 macOS runners,https://github.com/mirego/ekiden
+SpotifyElectron,Cross-platform music streaming desktop app made with Electron-React frontend and Python-FastAPI-MongoDB. The main goal is to reproduce the original Spotify's functionalities while incorporating unique user-requested features such as the ability to upload personal music.,https://github.com/AntonioMrtz/SpotifyElectron
+juce-plugin-ci,DEPRECATED: Cross-platform CI for JUCE audio plugins with Github Actions,https://github.com/ellapollack/juce-plugin-ci
+auto-assign-issue,GitHub Action that auto-assigns issues or PRs to one or more users,https://github.com/pozil/auto-assign-issue
+aws-openai,Example ChatGPT chatbots using Langchain and OpenAI,https://github.com/FullStackWithLawrence/aws-openai
+wandb-action,GitHub Action That Retrieves Model Runs From Weights & Biases,https://github.com/machine-learning-apps/wandb-action
+web-extension-svelte-boilerplate,The web extension boilerplate which helps setting up browser extension project quickly using typescript, svelte, jest, webpack, githook, prettier and github actions,https://github.com/davidnguyen11/web-extension-svelte-boilerplate
+code-embedder,Keep your code snippets in README up-to-date!,https://github.com/kvankova/code-embedder
+no-free-usage-action,A NO-FREE-USAGE action for github. (Only worked with github action.),https://github.com/fluttercandies/no-free-usage-action
+publish-org-roam-ui,Generates a static site for org-roam-ui from org-roam files managed on GitHub. And it is easy to publish to GitHub Pages.,https://github.com/ikoamu/publish-org-roam-ui
+docker-nginx-php-symfony,Docker environment required to run Symfony (based on official php and mysql docker hub repositories),https://github.com/systemsdk/docker-nginx-php-symfony
+cdk-sops-secrets,CDK Construct that syncs your sops secrets into AWS SecretsManager secrets.,https://github.com/dbsystel/cdk-sops-secrets
+auto-cancel-redundant-workflow,GitHub Actions to automatically cancel redundant workflow.,https://github.com/technote-space/auto-cancel-redundant-workflow
+checkstyle-action,Run Java checkstyle with reviewdog in github actions,https://github.com/nikitasavinov/checkstyle-action
+Android-CICD,This repo demonstrates how to work on CI/CD for Mobile Apps :iphone: using Github Actions :pill: + Firebase Distribution :tada:,https://github.com/MGamalE/Android-CICD
+gitpack-ai,Automate Pull Request Reviews with AI 🪄,https://github.com/gitpack-ai/gitpack-ai
+turborepo-template,Template for creating React 19 / Next.js 15 libraries,https://github.com/react18-tools/turborepo-template
+robin-ai-reviewer,Robin is your AI pull request reviewer in the form of a super fast lightweight github action. ,https://github.com/Integral-Healthcare/robin-ai-reviewer
+angular-deploy-gh-pages-actions,Github actions to automagically deploy your angular app to GitHub pages.,https://github.com/AhsanAyaz/angular-deploy-gh-pages-actions
+action-terragrunt,GitHub action for setting up Terragrunt https://terragrunt.gruntwork.io,https://github.com/autero1/action-terragrunt
+find-code-references,Find references to feature flags in your code,https://github.com/launchdarkly/find-code-references
